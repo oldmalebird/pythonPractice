@@ -51,7 +51,7 @@ word_space_split = ''.join(wordlist)
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud, ImageColorGenerator
 import numpy as np
-import Image
+import PIL.Image as Image 
 coloring = np.array(Image.open("/Users/apple/Desktop/wechat.jpg"))
 my_wordcloud = WordCloud(background_color="white", max_words=2000,
                          mask=coloring, max_font_size=60, random_state=42, scale=2,
