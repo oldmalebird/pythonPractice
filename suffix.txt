@@ -1,0 +1,3238 @@
+-ability[名词后缀]
+由-able+-ity而，构成抽象名词，表示“可...性”、“易...性”、“可...”
+knowability      可知性
+changeability    可变性
+readability      可读性
+lovability        可爱
+usability        可用性，能用
+dependability   可靠性
+movability      可移动性
+preventability   可防止
+inflammability   易燃性
+adaptability     可适应性
+-able[形容词后缀]
+表示“可...的”、“能...的”，或具有某种性质的
+knowable       可知的
+changeable     可变的
+readable        可读的
+lovable         可爱的
+usable         能用的
+dependable     可靠的
+movable         可移动的
+preventable     可防止的
+inflammable     易燃的
+adaptable       可适应的
+-ably[副词后缀]
+由-able转成，表示“可...地”、“...地”
+
+
+peaceably       和平地
+suitably         合适地
+laughably       可笑地
+dependably     可靠地
+comfortably     舒适地
+changeably      可变地
+movably         可移动地
+lovably         可爱地
+comparably     可比较地
+honourably      光荣地
+-aceous[形容词后缀]
+表示有...性质的、属于...的、如...的、具有...的
+rosaceous      玫瑰色的
+curvaceous     （妇女）有曲线美的
+herbaceous     草本的
+foliaceous       叶状的
+olivaceous      （似）橄榄的
+carbonaceous   含碳的
+crustaceous     皮壳的
+orchidaceous    似兰花的
+-acious[形容词后缀]
+表示有...性质的、属于...的、如...的、具有...的
+rapacious        掠夺的
+vivacious        活泼的，有生气的
+sagacious       聪明的
+capacious       容量大的
+sequacious      盲从的
+loquacious      多言的
+veracious       真实的
+edacious       贪吃的
+audacious       胆大的
+-acity[名词后缀]
+构成抽象名词，表示性质、状态、情况、与形容词后缀-acious相对应
+rapacity        掠夺
+vivacity        活泼，有生气
+sagacity        聪明，贤明
+veracity        诚实，真实
+capacity        容量
+audacity       大胆
+laoqucity       多言，健谈
+edacity        贪吃
+sequacity      盲从
+-acle[名词后缀]
+构成实物名词及抽象名词
+receptacle       容器，花托
+miracle          奇迹
+manacle         手铐
+obstacle         障碍
+spiracle          通气孔
+tentacle         触角，触须
+spectacle        景物
+pentacle         五角星形
+-acy[名词后缀]
+构成抽象名词、表示性质、状态、行为、职权等
+determinacy      确定性
+conspiracy       阴谋、密谋
+supremacy       至高，无上
+candidacy        候选人的地位
+literacy          识字
+priavacy         隐居
+intimacy         亲密
+accuracy        精确
+-ade[名词后缀]
+1、表示行为、状态、事物
+blockade        封锁
+cannonade      炮击
+masquerade     化装舞会
+fusillade        一齐射击
+gasconade      吹牛，夸口
+fanfaronade     吹牛
+2、表示物（由某种材料制成者或按某种形状制成者）
+orangeade      桔子水
+cockade        帽章
+stockade       栅栏，木篱
+balustrade     （一行）栏杆
+lemonade      柠檬水
+arcade         拱廓
+3、表示参加某种行动的个人或集体
+brigade        旅，队
+renegade      叛徒，变节者
+crusade       十字军
+cavalcade      骑兵队
+-age[名词后缀]
+1、表示集合名词、总称
+wordage       文字，词汇量
+percentage     百分比
+tonnage       吨数，吨位
+wattage        电的瓦数
+mileage        英里数
+herbage       草本植物
+acreage       英亩数
+leafage        叶子（总称）
+assemblage    集合的人群
+peerage       贵族（总称）
+2、表示场所、地点
+orphanage     孤儿院
+village         村庄
+anchorage     停泊所
+cottage        村舍
+hermitage      隐士住处
+vicarage       牧师住所
+passage       通道
+pasturage      牧场
+3、表示费用
+postage        邮资
+wharfage       码头税
+railage         铁路运费
+freightage      货运费
+waterage       水运费
+pilotage        领航费
+cartage        车运费
+towage        拖船费
+expressage    快运费
+porterage      搬运费
+lighterage      驳运费
+brokerage      经手费
+haulage       （拖）运费
+demurrage     滞留费
+4、表示行为或行为的结果
+marriage       结婚
+rootage        生根
+brigandage     强盗行为
+breakage       破碎，破损
+stoppage      阻止，阻塞
+brewage       酿造
+clearage       清除，清理
+tillage         耕作，耕种
+wastage       耗损
+pilgrimage     朝圣
+shrinkage      收缩，皱缩
+storage        贮存，保管
+5、表示状态、情况、身份及其他
+shorage       短缺
+parentage     出身，门第
+pupilage      学生身份
+advantage     利益
+alienage      外国人身份
+verbiage      冗词，赘语
+visage        面貌
+dotage       老年昏惯
+reportage     报告文学
+language      语言
+6、表示物
+roofage       盖屋顶的材料
+roughage     粗粮，粗饲料
+package      包裹
+blindage      盲獐，掩体
+bandage      绷带
+wrappae      包装材料
+carriage      马车，客车厢
+droppage     落下物
+altarage       祭坛的祭品
+appendage    附属物
+-ain[名词后缀]
+表示人
+riverain        住在河边的人
+villain          恶棍，坏人
+captain        船长
+chamberlain    财务管理人
+chieftain       酋长，头子
+chanpain       小教堂的牧师
+-aire[名词后缀]
+表示人
+millionaire      百分富翁
+solitaire        独居者
+billionaire      亿万富翁
+commissionaire  看门人
+occupationaire   军事占领人员
+concessionaire  特许权所有人
+doctrinaire      教条主义者
+-al①[形容词后缀]
+表示属于...的、具有...性质的、如...的
+personal         个人的
+prepositional     介词的
+autumnal         秋天的
+national          国家的，民族的
+emotional        感情上的
+imaginal         想像的
+global           全球的
+coastal          海岸的
+parental         父母的
+invitational       邀请的
+frontal           前面的，正面的
+conversational    会话的
+governmental     政府的
+natural           自然（界）的
+regional          地区的，局部的
+continental       大陆的
+educational       教育的
+exceptional       例外的
+②[名词后缀]
+1、构成抽象名词，表示行为、状况、事情
+refusal           拒绝
+proposal         提议
+withdrawal        撤退
+recital           背诵
+removal          移动，迁移
+arrival           到达
+renewal          更新
+appraisal         评价
+suuposal         想象，假定
+dismissal         解雇，开除
+survival          尚存，幸存
+overbrowal       推翻，打倒
+reviewal          复习
+revival           再生，复活
+approval         批准，赞成
+trial              试验，尝试
+2、表示人
+criminal         犯罪分子
+rival            竞争者
+aboriginal       土人
+rascal           恶棍，歹徒
+corporal        班长，下士
+arrival          到达者
+3、表示物
+mural           壁画
+dial            日晷
+manual         手册
+hospital        医院
+arsenal         武器库
+urinal          尿壶，小便池
+singal          信号
+diagonal        对角线
+-ality[名词后缀]
+复合后缀，由-al+-ity而成，构成抽象名词，表示状态、情况、性质、“...性”
+personaility     个性，人格
+logicality        逻辑性
+nationality       国籍
+criminality       有罪
+exceptionality    特殊性
+formality         拘泥形式
+conditionality     条件性
+emotionality      富于感情
+commonality     公共，普通
+technicality      技术性
+-ally[副词后缀]
+复合合缀，由-al+-ly而成，表示方式、程度、状态、“...地”
+dramatically      戏剧性地
+practically        实际上
+exceptionally     例外地
+climatically       在气候上
+heroically        英勇地
+systematically    系统地
+continually       连续地
+naturally         自然地
+conditionally      有条件地
+aritsitcally        艺术性地
+-an①[形容词后缀]
+表示属于...的、属于某地方的。带此后缀的形容词有的兼作名词，表示某地的人
+amphibian        水陆两栖的
+European        欧洲的，欧洲人
+urban            城市的
+American         美洲的，美洲人，美国人
+suburban        郊区的
+repubilican       共和国的
+African          非洲的，非洲人
+Roman           罗马的，罗马人
+Chilian          智利的，智利人
+②[名词后缀]
+表示人
+partisan         同党人
+Spartan         斯巴达人
+artisan          技工，手艺人
+Mohammedan   回教徒，伊斯兰教徒
+Puritan         清教徒
+Elizabethan     伊丽莎白女王时代的人
+castellan        城堡主，寨主
+-ance[名词后缀]
+构成抽象名词，表示状态、情况、性质、行为、与-ancy同。许多词具有-ance与-ancy两种后缀形式
+resistance        抵抗
+attendance        出席，到场
+expectance       期待，期望
+guidance         指导
+luxuriance        奢华，华丽
+buoyance         浮力
+continuance      继续，连续
+assistance        援助
+appearance       出现
+vigilance         警惕（性）
+clearance        清除，清理
+disturbance      骚扰
+repentance       后悔
+forbearance      克制，忍耐
+endurance       持久，忍耐
+accordance       一致
+reliance         依赖
+ignorance        无知，愚昧
+-ancy[名词后缀]
+构成抽象名词，表示状态、情况、性质、行为、与-ance同。许多词具有-ance与-ancy两种后缀形式
+expectancy       期待，期望
+occupancy       占有，占用
+luxuriancy        奢华，华丽
+conservancy     保护，管理
+buoyancy        浮力
+brilliancy         光辉
+compliancy       依从，服从
+constancy        经久不变
+militancy         交战，战事
+elegancy         优美，高雅
+-aneity[名词后缀]
+构成抽象名词，表示性质、状态、情况，与-aneous相对应
+instantaneity     立刻（instantaneous立刻的）
+simultaneity     同时发生（simultaneous同时发生的）
+contemporaneity 同时时代（contemporaneous同时代的）
+-aneous[形容词后缀]
+表示有...性质的、属于...的，一部分与-aneity相对应，参见上条
+instantaneous    立刻的
+simultaneous     同时发生的
+contemporaneous 同时代的
+spontaneous      自发的
+consentaneous    同意的，一致的
+subterraneous     地下的
+extemporaneous   临时的，即席的
+miscellaneous     杂项的，各种的
+extraneous        外来的
+-ant①[形容词后缀]
+大部分与-ance或-ancy，相对应，表示属于...的、具有...性质的
+expectant         期待的
+vigilant           警惕的
+luxuriant          奢华的
+attendant         在场的
+resistant          抵抗的
+determinant       决定性的
+assistant          辅助的
+repentant         后悔的
+buoyant          有浮力的
+accordant         和谐的，一致的
+ignorant          无知的
+abundant         丰富的
+reliant            依赖的
+②[名词后缀]
+1、表示人
+examinant         主考人
+insurant           被保险人
+inhabitant         居民
+accountant        核算者，会计
+occupant          占据者
+executant         执行者
+informant         提供消息者
+servant           仆人
+participant        参与者
+assistant         助手，助理
+registrant        管登记者
+discussant       参加讨论者
+accusant        控告者
+attendant        出席者
+disputant        争论者
+confidant        信任者，知已
+2、表示物
+coolant          冷却剂
+digestrant        消化剂
+excitant         兴奋剂
+stimulant        刺激物
+decolourant      脱色剂
+depressant       抑制剂
+dependant       依附物
+disinfectant      消毒剂
+-ar①[形容词后缀]
+表示有...性质的、属于...的、如...的
+linear           线的，线性的
+peculiar        特有的
+similar          同样的，相似的
+familiar         熟知的
+consular        领事的
+nuclear        核子的
+insular          海岛的，岛形的
+solar           太阳的
+singular        单独的
+angular        有角的
+polar           南（北）极的
+molecular       分子的
+②[名词后缀]
+1、表示人
+scholar          学者
+liar             说谎的人
+beggar          乞丐
+pedlar          商贩，小贩
+registrar         管登记的人
+Templar         圣殿骑士
+bursar          大学的会计
+burglar          夜盗，夜贼
+justiciar         法官，推事
+2、表示物及其他
+cellar           地窖
+exemplar        模范，典型
+altar            祭坛
+calendar        日历
+grammar        文法，语法
+collar          领子
+-ard[名词后缀]
+表示人（大多含有贬义）
+drunkard         醉鬼，酒徒
+laggard          落后者
+Spaniard         西班牙人
+bastard          私生子
+dullard          笨人，笨汉
+coward          胆怯者
+dotard          年老昏惯的人
+wizard          奇才，男巫
+sluggard        懒汉
+niggard         守财奴
+-arian[名词后缀]
+1、表示人
+parliamentarian   国会议员
+attitudinarian     装模作样者
+unitarian         拥护政治统一的人
+alphabetarian     学字母的人
+antiquarian       古物家
+fruitarian         主要靠吃水果过日子的人
+abecedarian      教或学a,b,c,d的人，初学者，启蒙老师
+sectarian         宗派门徒
+2、带此后缀的名词有的可兼作形容词，表示...的、...主义的
+humanitarian      人道主义者，人道主义的
+doctrinarian       教条主义者，教条主义的
+equalitarian       平均主义者，平均主义的
+vegetarian        素食者，素食的
+establishmentarian 拥护即成权力机构的（人）
+utilitarian          功利主义者，功利主义的
+-arium[名词后缀]
+表示场所、地点、...馆、...室、...院、...所等
+planetarium       天文馆
+oceanarium      （海洋）水族馆
+atomarium        原子馆
+insectarium       昆虫馆
+herbarium        植物标本室
+sanitarium        疗养院
+vivarium         动物饲养所
+aquarium         水族馆
+serpentarium     蛇类展览馆
+frigidarium       冷藏室
+solarium         日光浴室
+columbarium     鸽棚
+ovarium         卵巢
+-ary①[形容词后缀]
+表示有...性质的，属于...的，关于...的
+secondary       第二的
+honorary        荣誉的
+questionary     询问的
+unitary          单元的
+elementary      基本的
+planetary        行星的
+limitary         限制的
+imaginary      想象中的
+expansionary   扩张性的
+customary      习惯的
+disciplinary     纪律的
+revolutionary    革命的
+parliamentary    议会的
+revisionary      修订的
+monentary     片刻的
+exemplary      模范的
+②[名词后缀]
+1、表示场所、地点
+rosary        玫瑰园
+dispensary    药房
+infirmary      医院，医务室
+library        图书馆
+depositary    存放处
+aviary        养鸟室
+granary      谷仓（gran=grain）
+apiary        养蜂所
+2、表示人
+secretary      书记，秘书
+missionary     传教士
+adversary      对手
+revolutionary   革命者
+notary         公证人
+functionary     职官，官员
+dignitary       居高位者
+plenipotentiary  全权代表
+3、表示抽象及抽象名词
+dictionary      字典，词典
+luminary       发光体
+glossary       词汇表
+formulary      公式汇编
+salary         薪金
+distributary    江河的支流
+diary          日记本
+anniversary    周年纪念
+piscary       捕鱼权
+vocabulary    词汇
+-ast[名词后缀]
+表示人
+gymnast       体操家
+encomiast     赞美者
+enthusiast     热心者
+symposiast    参加宴会的人
+scholiast      注解者
+ecdysiast      脱衣舞舞女
+-aster[名词后缀]
+表示人（卑称）
+poetaster       劣等诗人
+criticaster      低劣的批评家
+medicaster     江湖医生，庸医
+philosophaster  肤浅的哲学家
+-ate①[动词后缀]
+表示做、造成、使之成...、做...事等意义
+hyphenate      加连字符
+orientate        使向东，定方向
+differentiate     区别
+triangulate      使成三角形
+maturate       使成熟
+luxuriate        享受，沉溺
+oxygenate     氧化，充氧化
+liquidate        清洗，清除
+originate       发源，发起
+assassinate     行刺，暗杀
+②[形容词后缀]
+表示有...性质的、如...形状的、具有...的
+lineate         有线，划线的
+determinate    确定的
+roseate        玫瑰似的
+fortunate       幸运的
+considerate    考虑周到的
+proportionate   成比例的
+collegiate      大学的，学院的
+private         私人的
+passionate     热情的
+③[名词后缀]
+1、表示人
+graduate       毕业生
+delegate       代表
+candidate      侯补者
+curate         副牧师
+magistrate     地方行政官
+advocate      辩护者
+2、表示职位，职权，总称等
+doctorate      博士衔
+directorate     指导者的职位
+professoriate   教授职位
+electorate      全体选民
+3、构成化学名词，大多数表示由酸而成的盐类
+carbonate      碳酸盐
+borate         硼酸盐
+sulphate       硫酸盐
+acetate        醋酸盐
+nitrate         硝酸盐
+alcoholate      乙醇化物
+-atic[形容词后缀]
+表示有...性质的、属于...的，具有...的
+systematic      有系统的
+idiomatic       惯用语的
+problematic     有问题的
+emblematic     象征的
+diagrammatic    图解的
+thematic        题目的，主题的
+lymphatic       淋巴的
+axiomatic       公理的
+-ation[名词后缀]
+1、表示行为、情况、状态
+interpretation    翻译，解释
+excitation       兴奋，激动，刺激，激励
+exploitation     剥削
+starvation       饥饿
+preparation     准备
+relaxation       松弛，缓和
+invitation        邀请
+colouration      色彩，特色
+transportation    运输
+continuation     延续，继续
+forestation      造林
+ruination        毁灭，毁坏
+conservation    保存，保护
+lamentation     悲伤
+importation      输入，进口
+exportation      输出，出口
+2、表示行为的过程、结果、或由行为而产生的事物
+consideration    考虑
+information      通知，消息
+reformation      改革
+combination     结合，联合
+imagination      想象
+quotation        引文，引语
+explanation      说明，解释
+declaration       宣言，声明
+determination    决定
+limitation        限制
+occupation       占领，占据
+exclaimation     感叹词
+-ative[形容词后缀]
+表示有...性质的、与...有关的、属于...的、有...倾向的、有...作用的（带此后缀的词有的可兼作名词）
+talkative          好说话的
+determinative     有决定作用的
+quotative         引用的
+opinionative       意见（上）的
+preventative      预防的
+limitative         限制（性）的
+designative       指定的
+argumentative     争论的
+continuative       继续的
+informative       报告消息的
+calmative         镇静的，镇静剂
+preparative       准备的
+formative         形成的
+fixative           固定的，固着剂
+comparative      比较的
+affirmative        肯定的
+-ator[名词后缀]
+表示做...工作的人或物
+designator        指定者
+comparator       比较器
+conservator      保护者
+condensator      凝结器
+continuator       继续者
+computator       计算机
+pacificator        平定者
+trafficator       （汽车的）方向指示器
+valuator         评价者
+commentator     评论者
+excavator        挖掘者
+illuminator        照明器
+-atory①[形容词后缀]
+表示有...性质的、属于...的、具有...的（带有此后缀的形容词有的可兼作名词）
+condemnatory    谴责的
+invitatory         邀请的
+excitatory        显示兴奋的
+exclamatory      感叹的
+explanatory      解释的
+defamatory       诽谤的
+preparatory       准备的
+pacificatory      和解的
+informatory       报告消息的
+signtory         签约的，签约国
+consolatory       安慰的
+declaratory       宣告的
+accusatory       责问的
+pulsatory        跳动的
+inflammatory     煽动的
+②[名词后缀]
+表示场所、地点
+observatory     天文台
+laboratory       实验室
+conservatory    暖房，温室
+lavatory         盥洗室，厕所
+-ce[副词后缀]
+表示“...次”、“自...”、“从...”
+once           一次
+hence         因此，从今以后
+twice          二次
+thence        自那里，从那时起
+thrice         三次
+whence       从何处，由此
+-cy[名词后缀]
+表示性质、状态、职权、官衔
+normalcy       正常状态
+generalcy      将军职权、任期
+vacancy       空白，空虚
+surgeoncy     外科医生职务
+captaincy      船长的职位
+colonelcy      上校衔
+bankruptcy     破产
+ensigncy       海军小尉衔
+infancy        幼年期
+idiocy         白痴，呆痴
+-dom[名词后缀]
+1、表示情况、状态、性质、身份
+freedom       自由
+chiefdom      首领身份，地位
+widom         智慧
+serfdom       农奴身份
+bachelordom  （男子）独身
+beggardom    乞丐身份
+monkdom      和尚身份
+martyrdom     殉难，殉国
+2、表示领域、“...界”、集体、总称
+kingdom       王国，领域
+Christendom   基督教世界，基督教徒总称
+sportsdom     体育界
+filmdom       电影界
+negrodom     黑人社会
+stardom       明星界
+missiledom    导弹世界
+newspaperdom 报界
+devildom      魔界
+officialdom     官场，政界
+scoundreldom  无赖汉总称
+-ed[形容词后缀]
+1、加在名词之后，表示“有...的”、“如...的”、“...的”
+coloured       有色的
+booted         穿靴的
+moneyed       有钱的
+dark-haired     黑发的
+gifted          有天才的
+kinde-hearted   好心的
+talented        有才能的
+conditioned     有条件的
+haried         有毛发的
+privileged       有特权的
+winged         有翅的
+skilled          熟练的
+beared         有胡须的
+balconied       有阳台的
+aged           年老的，...岁的
+horned         有角的
+2、加在动词之后，表示“已...的”、“被...的”、“...了的”
+failed           已失败的
+fixed           被固定的
+liberated        解放了的
+determined      已决定了的
+retired          已退休的
+extended       扩展了的
+condensed      缩短了的
+confirmed       被证实了的
+educated       受过教育的
+returned        已归来的
+married        已婚的
+condemned     定了罪的
+restreicted      受限制的
+considered      考虑过的
+closed         关闭了的
+oiled           上了油的
+finished         完成了的
+wounded       受了伤的
+-ee[名词后缀]
+1、表示人
+（a）被动者
+employee       被雇者，雇员，雇工
+trainee          受训练的人
+appointee       被任命者
+electee         被选出者
+callee          被呼唤者
+invitee          被邀请乾
+bombee        被轰炸的人
+testee          被测验者
+expellee        被驱逐者
+examinee       接受考试者
+tailee           被尾随者
+payee          被付给者
+interviewee      被接见者
+detainee        被拘留者
+deportee        被驱逐出境者
+indictee         被告
+trustee          被信托者
+rejectee         被拒绝者
+awardee        受奖者
+（b）主动者
+meetee         参加会议者
+devotee        献身者
+absentee       缺席者
+retiree         退休者
+escapee        逃亡者，逃犯，逃俘
+standee       （剧院中）站票看客，（车、船中）站立乘客
+refugee         难民，逃难者
+embarkee        上船者
+returnee        归来者
+conferee        参加商谈者
+（c）不含主动或被动意义者
+townee          城里人，市民
+grandee         要人，显贵
+2、表示物
+coatee         紧身上衣
+settee         有靠背的椅子
+vestee         背心形的衣服
+bootee         轻便短统女靴
+goatee         山羊胡子
+-eer[名词后缀]
+表示人（专做某种工作或从事某种职业的人）
+weaponeer      武器专家
+rocketeer       火箭专家
+fictioneer       小说作家
+cannoneer      炮手
+profiteer        牟取暴利者
+charioteer      驾驶马车者
+cabineer        卡宾枪手
+mountaineer    登山者
+sloganeer       使用口号者
+camcleer       赶骆驼的人
+engineer       工程师
+volunteer      志愿者
+pamphleteer    小册子作者
+marketeer      市场上卖主
+[注]-eer也可用作动词后缀，如：
+electioneer     进行选举活动
+profiteer       牟取暴利
+auctioneer      拍卖
+mountaineer    登山
+commandeer   征用，强征
+domineer      飞扬跋扈
+-el[名词后缀]
+1、表示小
+model         模型（比原物小）
+parcel        小包裹
+runnel        小河，小溪
+cupel         灰皿
+2、表示人、集体
+personnel     全体人员
+yokel         庄稼汉，乡下佬
+scoundrel    恶棍，坏人
+wastrel       浪费者
+sentinel       哨兵
+minstrel      呤游诗人
+3、表示物
+roundel      圆形物
+flannel       法兰绒
+costrel       有耳的坛子
+cartel       交换俘虏协议书
+chisel       凿子
+funnel       漏斗
+4、表示场所、地点
+hotel        旅店、饭店
+kennel      狗窝
+hostel       旅店
+brothel      妓院
+tunnel       隧道，坑道
+channel     航道，海峡
+chancel      圣坛
+charnel      尸骨存放所
+-en①[动词后缀]
+表示做、使成为...、使变成...
+shorten       使缩短
+gladden       使快活
+harden        使变硬
+flatten        使变平
+strengthen    加强
+moisten       弄湿，使湿
+deepen       加深，使深
+sharpen       削尖
+richen        使富
+quicken        加快
+darken       使黑，变黑
+youthen       变年轻
+heighten      加高，提高
+fatten         使肥
+lengthen      使延长，伸长
+straighten      弄直，使直
+broaden       加宽
+sweeten       使变甜
+thicken        使变厚
+soften         弄软，使软化
+②[形容词后缀]
+表示由...制成的，含有...质的，似...的
+wooden        木制的
+leaden         铅制的
+woolen         羊毛制的
+golden         金质的，似金的
+silken          丝的，如丝的
+wheaten        小麦制的
+earthen        泥质的，泥制的
+waxen          蜡制的，似蜡的
+ashen          灰的，似灰的
+oaken          橡树制的
+③[名词后缀]
+1、表示人
+warden         看守人
+citizen          公民
+vixen           刁妇，泼妇
+denizen        居民
+2、表示小称
+maiden         少女
+chicken         小鸡
+kitten           小猫
+-ence[名词后缀]
+与形容词后缀-ent相对应（如difference与different），构成抽象名词，表示性质、状态、行为、义同-ency，有此词具有-ence和-ency两种后缀形式（如innocence=innocency）
+existence        存在，生存
+insistence       坚持
+dependence     依赖
+emergence      浮现，出现
+confidence      信任
+persistence      坚持，持续
+difference       不同，区别
+despondence    沮丧，泄气
+innocence       无罪，优秀
+excellence      杰出，优秀
+occurrence      发生，出现
+convergence    会聚，集中
+coherence       粘着
+-ency[名词后缀]
+与形容词后缀-ent相对应（如urgency与urgent），构成抽象名词，表示性质、状态、
+行为、义同-ence。有些词具有-ency与-ence两种后缀形式（如persistency=persistence）
+urgency         紧急
+insistency       坚持
+emergency      紧急情况
+innocency       无罪，天真
+coherency       粘着
+persistency      持续，坚持
+insolvency       无偿还能力
+convergency     会聚，集中
+despondency     沮丧，泄气
+tendency         趋向，倾向
+-end[名词后缀]
+构成抽象名词，大多见于数学术语，亦作-and
+dividend        被除数
+multiplicand     被乘数
+addend        加数
+subtrahend     减数
+minuend        被减数
+legend        传奇，传说
+errand         使命
+-enne[名词后缀]
+表示女性
+comedienne     女喜剧演员
+tragedienne     女悲剧演员
+equestrienne    女骑手，女马术师
+-ent①[形容词后缀]
+与名词后缀-ence或-ency相对应，表示具有...性质的，关于...的
+existent         存在的，现存的
+insistent        坚持的
+emergent       紧急的
+confident        自信的
+persistent       持久的，坚持的
+dependent      依赖的
+different        不同的
+excellent       杰出的
+occrurent       偶然发生的
+despondent     沮丧的
+②[名词后缀]
+1、表示人
+student         学生
+resident        居民
+correspondent  通讯员
+president       总统，大学校长
+patient          病人
+antecedent      先行者
+2、表示物（...剂、...药）
+detergent        洗涤剂
+corrodent        腐蚀剂
+solvent          溶液
+absorbent       吸收剂
+abluent          洗净剂
+corrigent        矫正药
+-eous[形容词后缀]
+表示有...性质的，关于...的，如...的，具有...的，与-ous同
+righteous        正直的
+beauteous       美丽的
+gaseous         气体的，气态的
+carneous        肉色的
+duteous         忠实的
+courteous       有礼貌的
+erroneous       错误的
+aqueous         水的，水成的
+-er①[名词后缀]
+1、表示人
+（a）行为的主动者，做某事的人
+singer           歌唱家
+dancer          跳舞者
+teacher          教师
+writer            作者，作家
+reader           读者
+leader           领袖
+fighter           战士
+worker           工人
+farmer           农民
+turner           车工
+（b）与某事物有关的人
+hatter           帽商，制帽工人
+banker          银行家
+wagoner         驾驶运货车的人
+tinner           锡匠
+weekender      度周末假者
+teenager        (十三至十九岁的)青少年
+six-footer       身高六英尺以上的人
+miler           一英里赛跑运动员
+（c）属于某国、某地区的人
+United Stateser   美国人
+New Yorker      纽约人
+Thailander       泰国人
+New Zealander   新西兰人
+northerner       北方人
+southerner       南方人
+Britisher         英国人
+Londoner        伦敦人
+Icelander        冰岛人
+islander         岛国
+inlander         内地人
+villager          村民
+2、表示物（与某事物有关之物或能做某事之物）及动物（能做某事的动物）
+washer           洗衣机
+lighter            打火机
+heater            加热器
+cutter            切削器，刀类
+boiler            煮器，锅
+fiver             五元钞票
+tenner           十元钞票
+silencer          消音器
+woodpecker      啄木鸟
+creeper           爬行动物，爬虫
+3、加在方位词上表示“...风”
+norther          强北风
+northwester      强西北风
+souther         强南风
+southeaster      强东南风
+②[动词后缀]
+表示反复动作，连续动作及拟声动作
+waver           来回摆动
+chatter          喋喋不休
+stutter           结舌，口吃
+batter           连打
+mutter           喃喃自语
+clatter           作卡嗒声
+patter           发嗒嗒声
+whisper         低语，作沙沙声
+③[形容词及副词后缀]
+表示比较级“更...”
+graeter          更大
+warmer          更暖
+happier         更快乐
+faster           更快
+earlier          更早
+harder          更努力
+-ern①[形容词后缀]
+加在方位词上表示“...方向的”
+eastern         东方的
+western         西方的
+northeastern    东北的
+southern        南方的
+northern        北方的
+southwestern    东南的
+②[名词后缀]
+表示场所、地点
+saltern         盐场
+cavern         洞穴
+lectern        （教堂中）读经台
+cistern        蓄水池，水塘
+-ery[名词后缀]
+1、表示场所、地点、工作处
+printery        印刷所
+nursery        托儿所
+brewery       酿造厂
+piggery        猪圈
+vinery         葡萄园
+drinkery       酒吧间
+dancery       跳舞厅
+eatery         餐馆，食堂
+smithery       铁工厂
+rosery         玫瑰园
+bakery        烤面包房
+nunnery       尼姑庵
+rookery        白嘴鸦巢
+spinnery       纺纱厂
+greenery       花房，温室
+goosery       养鹅场
+2、表示行为、状态、情况、性质
+robbery        掠夺，抢劫
+foolery         愚蠢行为
+trickery        欺诈
+doggery        狗性，卑鄙行为
+bravery        勇敢，大胆
+bribery         贿赂
+3、表示行为、法、术、身份等
+fishery         渔业，捕鱼术
+drapery        布匹服装行业
+cookery        烹调法
+housewifery    家务，家政
+missilery       导弹技术
+slavery         奴隶身份
+-esce[动词后缀]
+表示动作开始或正在进行。它的对应名词后缀为-escence或-escency，它的对应形容词后缀为-escent
+evanesce       渐渐消失
+effloresce       开花
+senesce        开始衰老
+coalesce        联合，结合
+fluoresce       发萤光
+deliquesce      潮解，液化
+convaleace     渐愈，恢复健康
+rejuvenesce    （使）返老还童
+obsolesce      废除不用
+incandesce     （使）白热化，炽热化
+-escence[名词后缀]
+构成抽象名词，表示开始，正在，逐渐形成某种状态、情况或性质，略...，似...，它的对应形容词后缀为-escent，亦作-escency。有些词具有-escence和-escency两种后缀形式
+coalescence     联合，结合
+senescence     衰老
+juvenescence   变年轻
+incandescence  白炽
+efflorescence    开花期，花开
+evanescence    渐渐消失
+deliquescence   潮解，液化
+rejuvenescence  返老还童
+-escent[形容词后缀]
+表示开始、正在、逐渐成为某种状态的，似...的、略...的
+efflorescent     正在开花的
+evanescent     渐渐消失的
+rejuvenesecent  返老还童的
+senescent      逐渐衰老的
+liquescent     （可）液化的
+ignescent      发出火花的
+convalescent   逐渐痊愈的
+incandescent   白炽的
+juvenescent    逐渐成为青年的
+ingravescent   （病等）越来越重的
+-ese①[形容词兼名词后缀]
+表示某国的、某地的；某国或某地的人及语言
+Chinese        中国的（人），汉语
+Japanese       日本的（人），日语
+Vietnamese     越南的（人、语）
+Burmese        缅甸的（人、语）
+Maltese        马耳他的（人、语）
+Cantonese     广州的（人、语）
+Viennese       维也纳的（人）
+Congolese     刚果的（人、语）
+Milanese       米兰的（人）
+Siamese       暹罗的（人、语）
+Portuguese     葡萄牙的（人、语）
+②[名词后缀]
+表示某派（或某种）的文体，文风或语言
+translationese    翻译文本
+officialese        公文体
+academese       学院派文体
+journalese       新闻文体
+Americanese     美国英语
+telegraphese     电报文体
+childrenese      儿童语言
+computerese     计算机语言
+educationese     教育界术语
+televisionese     电视术语
+bureaucratese    官腔
+legalese         法律术语
+-esque[形容词后缀]
+表示如...的、...式的、派的、...风的
+picturesque       如画的
+arabesque        阿拉伯式的
+gigantesque      如巨人的
+gardenesque     如花园的
+robotesque       机器人似的
+statuesque        如雕像的
+Japanesque      日本式的
+lionesque        如狮的，凶猛的
+Disneyesque     迪斯尼式的
+Romanesque     罗马式的
+Dantesque       但丁派的
+Zolaesque        左拉风格的
+-ess[名词后缀]
+表示女性（人）或雌性（动物）
+citizeness        女公民
+manageress      女经理
+poetess          女诗人
+authoress        女作家
+mayoress        女市长，市长夫人
+governess       女统治者
+Jewess          犹太女人
+tailoress         女裁缝
+hostess         女主人
+murderess       女凶手
+shepherdess     牧羊女
+goddess        女神
+lioness          母狮
+leopardess      母豹
+eagless          雌鹰
+millionairess     女百分富翁
+giantess         女巨人
+astronautess     女太空人
+heiress          女继承人
+patroness        女保护人
+-est[形容词及副词后缀]
+表示最高级“最...”
+smallest          最小
+largest           最大
+happiest         最快乐
+earliest           最早
+fastest           最快
+hardest          最努力
+-et[名词后缀]
+表示小
+floweret          小花
+lioner            小狮，幼狮
+dragonet         小龙
+eaglet            小鹰
+crotchet          小钩
+glacieret          小冰川
+coronet           小冠冕，小冠
+verset            短诗
+circlet            小圈
+medalet           小奖章
+packet            小包，小捆
+owlet             小猫头鹰
+islet              小岛
+-eth[形容词兼名词后缀]
+表示（a）第...十（b）...十分之一
+thirtieth            第三十，三十分之一
+fortieth            第四十；四十分之一
+fiftieth             第五十；五十分之一
+sixtieth            第六十；六十分之一
+-etic[形容词后缀]
+表示属于...的、有...性质的、关于...的
+theoretic          理论上的
+energetic         精力旺盛的
+sympathetic       同情的
+tonetic            声调的
+genetic           产生的，发生的
+phonetic          语音的
+apologetic        道歉的，辩解的
+zoetic            生命的，有生气的
+dietetic           饮食的，营养的
+diuretic           尿的，利尿的
+-ette[名词后缀]
+1、表示小
+roomette          小房间
+kitchenette        小厨房
+tankette          小坦克
+millionette        小百万富翁
+novelette         中篇小说（比novel短）
+statuette          小雕像
+balconette        小阳台
+essayette         短文
+historiette         小史
+storiette           小故事
+parasolette        小阳伞
+cigarette           烟卷（比cigar小）
+pianette           小竖式钢琴
+wagonette         轻便游览车
+2、表示女性
+sailorette          女水手
+typette            女打字员
+usherette         女引座员
+farmerette        农妇
+undergraduette    女大学生
+majorette         军乐队女队长
+3、在商业上表示“仿造物”、“代用品”
+leatherette         人造革
+rosette            玫瑰花形物
+linenette           充亚麻织物
+flannelette         棉法兰绒
+4、其他
+serviette           餐巾
+launderette         自动洗衣店
+-ety[名词后缀]
+构成抽象名词，表示性质、状态、情况
+gayety            快乐
+vanety            变化
+anxiety           悬念
+notoriety          臭名昭著
+satiety           饱足，厌腻
+propriety         适当，适合
+-eur[名词后缀]
+来自法语，表示人
+amateur          业余爱好者
+petroleur         用石油放火者
+saboteur         怠工者
+connoisseur      鉴赏家
+restauranteur     饭店老板
+litterateur        文人，文学家
+farceur          滑稽演员
+claqueur         喝采者
+voyageur         旅行者
+-faction[名词后缀]
+构成抽象名词，表示情况、状态、行为或行为的结果，与动词后缀-fy相对应
+satisfaction       满足
+rarefaction       稀少，稀薄
+calefaction       发暖作用
+putrefaction      腐烂作用
+liquefaction       液化（作用）
+stupefaction      麻木状态
+vitrifaction        成玻璃状
+tepefaction       微温，湿热
+-fic[形容词后缀]
+表示“致...的”、“令...的”、“产生...的”、或表示具有某种性质的（亦作-ific）
+colorific           产生颜色的
+honrific           尊敬的
+scientific          科学的
+pacific            和平的
+specific           特殊的，专门的
+somnific          催眠的
+terrific            令人害怕的
+horrific           可怕的
+acidific           化为酸性的
+calorific           生热的
+malefic           邪恶的，有害的
+-fication[名词后缀]
+构成抽象名词，表示“...化”、“做...”、“使成为...”等意义，与动词后缀-fy相对应
+beautification     美化
+uglification       丑化
+electrification     电气化
+simplification     简（单）化
+pacification      平定，绥靖
+falsification      伪造
+gasification      气化
+certification      证明
+typification       典型化
+glorification      颂扬，赞美
+intensification    加强
+amplification      扩大
+classification     分类
+rectification      纠正，净化
+purification      清洗，净化
+fortification      筑城，设防
+solidification     凝固，团结
+Frenchification   法国化
+-fier[名词后缀]
+由-fy+-er而成，表示“做...的人或物”、“使成...的人或物”
+beautifier        美化者
+glorifier         赞美者，颂扬者
+pacifier         平定者
+classifier        分类者
+falsifier         伪造者
+liquefier         液化器
+amplifier         放大器，打音器
+intensifier       增强器（剂）
+certifier         证明者
+simplifier        简化物
+rectifier         改正者，整流器
+-fold[形容词及副词后缀]
+表示...倍、...重
+twofold          两倍，两重
+threefole        三倍，三重
+fourfold         四倍，四重
+sevenfold       七倍，七重
+tenfold          十倍，十重
+hundredfold     百倍，百重
+thousandfold    千倍，千重
+manyfold        许多倍地
+-form[形容词后缀]
+表示有...形状的、似...形状的
+gasiform         气态的
+cruciform        十字形的
+cubiform        立方体形的
+dentiform        牙齿形的
+uniform         形状一样的
+asbestiform      石棉状的
+-ful①[名词后缀]
+加在名词之后，表示充满时的量
+handful         一把，一把的量
+spoonful       一匙的量
+houseful       满屋，一屋子
+armful         一抱
+bagful          一满袋
+drawerful       一抽屉
+cupful          一满杯
+mouthful       一口
+dishful         一喋的量
+boatful         一船所载的量
+boxful         一满箱，一满盒
+bellyful         一满腹
+②[形容词后缀]
+表示富有...的，充满...的，具有...性质的，易于...的，可...的
+useful          有用的
+fruitful          有结果的
+hopeful         富有希望的
+dreamful        多梦的
+peaceful        和平的
+powerful        有力的
+sorrowful       悲哀的
+changeful       多变化的
+shameful        可耻的
+fearful          可怕的
+forgetful        易忘的
+truthful         真实的
+skillful          熟练的
+doubtful        可疑的
+careful         小心的
+cheerful        快乐的
+-fy[动词后缀]
+表示“...化”、“使成为...”、“变成...”、“做...”。它的对应名词后缀为-faciton或-fication
+simplify         使简化
+beautify         美化
+uglify           丑化
+satisfy         （使）满足
+classify         把...分类
+falsify          伪造
+rarefy          使稀少
+citify           使都市化
+ladify          使成为贵妇人
+intensify       加强，强化
+glorify         颂扬，夸赞
+electrify        电气化
+gasify         （使）气化
+purify          使洁净，净化
+-hood[名词后缀]
+构成抽象名词，表示时期，情况，状态，性质，身份，资格等
+childhood      童年
+boyhood       少年时代
+girlhood       少女时期
+widowhood     守寡，孀居
+neighborhood   邻居关系
+manhood       成年
+falsehood      谬误，不真实
+bachelorhood   独身生活
+likelihood       可能（性）
+brotherhood     兄弟之道
+motherhood     母性，母亲身份
+fatherhood       父性，父亲身份
+doghood        狗性
+sisterhood      姐妹关系
+-i[形容词兼名词后缀]
+表示属于某国的或某地区的，兼表某国的或某地区性的人或语言
+Israeli           以色列的（人）
+Iraqi            伊拉克的（人）
+Yemeni         也门的（人）
+Zanzibare       桑给巴尔的（人）
+Hindustani      印度斯坦的（人、语）
+Pakistani        巴基斯坦的（人）
+Punjabi         旁遮普的（人、语）
+-ia[名词后缀]
+表示情况、状态、总称及其他
+differentia       差异
+intelligentsia     知识界，知识分子（总称）
+suburbia        郊区居民（总称）
+battalia         战斗的陈列
+juvenilia         少年文艺读物
+fantasia         幻想曲
+militia          民兵组织，民兵（总称）
+utopia          乌托邦
+adynamia       无力，衰弱，体力缺乏
+ataxia          混乱，无秩序
+regalia          王权，王位
+-ial[形容词后缀]
+表示属于...的、具有...的、有...性质的
+presidential       总统的
+managerial       经理的
+editorial          编辑的
+adverbial         副词的
+dictatorial         独裁的
+monitorial        班长的
+provincial         省的
+special           空间的
+facial            面部的
+partial           部分的
+agential          代理人的
+commercial      商业的
+differential       有差别的
+racial            种族的
+[注]有此以“ce”为结尾的词，加-ial后在拼写上有变化，即将“ce”改为“t”，如
+experience→experiential  凭经验的
+palace→palatial          宫殿（似）的
+space→spatial           空间的
+science→scientist        科学家
+influence→influential      有影响的
+residence→residential     居住的，住宅的
+existence→existential     关于存在的
+substance→substantial    物质的
+confidence→confidential   极受信任的
+-ian①[形容词后缀]
+表示属于某国的、某地的，某人的或某宗教的（可兼表示人或语言）
+Egyptian        埃及的（人、语）
+Mongolian      蒙古的（人、语）
+Arabian         阿拉伯的（人）
+Oceanian       大洋洲的（人）
+Canadian       加拿大的（人）
+Washingtonian   华盛顿市（州）的（人）
+Shakespearian   莎士比亚的
+United Statesian  美国的（人）
+Parisian         巴黎的（人）
+Athenian        雅典的（人）
+Dickensian       狄更斯的
+Newtonian       牛顿（学说）的
+Christian        基督教的（徒）
+②[名词后缀]
+表示某种职业、地位或特征的人
+grammarian     语法学家
+historian        历史学家
+guardian        守卫者
+civilian          平民
+collegian       高等学校学生
+comedian       喜剧演员
+tragedian       悲剧演员
+lilliputian       矮子
+-ibility[名词后缀]
+由ible+ity而成，构成抽象名词，表示“可...性”、“易...性”、“...性”、“可...”
+sensibility      敏感性
+receptibility     可接受性
+resistibility      抵抗得住
+corruptibility    易腐败性
+flexibility       易曲性
+convertibility    可变换性
+conductibility    传导性
+producibility     可生产
+extensibility      可伸展性
+perfectibility     可完成
+digestibility      可消化性
+accessibility     易接近性
+-ible[形容词后缀]
+表示“可...的”、“能，，，”、“易...的”或具有某种性质的
+sensible        可感觉的
+recptible        可接受的
+resistible        可抵抗的
+corruptible      易腐败的
+flexible         易弯曲的
+convertible      可变换的
+conductible     能（被）传导的
+producible      可生产的
+extensible      可伸展的
+perfectible      可完成的
+digestible       可消化的
+accessible      可接近的
+-ibly[副词后缀]
+由形容词后缀-ible转成，表示“可...地”、“...地”
+sensibly        可感觉地
+receptibly      可接受地
+resistibly       可抵抗地
+corruptibly      易腐败地
+flexibly         易弯曲地
+convertibly      可变换地
+conductibly      能（被）传导地
+producibly      可伸展地
+extensibly       可完成地
+digestibly       可消化地
+accessibly       易接近地
+-ic①[形容词后缀]
+表示“...的”
+atomic         原子的
+electronic      电子的
+historic        有历史意义的
+organic        器官的
+poetic         诗的
+Icelandic       冰岛的
+hygienic        卫生的
+basic          基本的
+nucleonic      核子的
+periodic       周期的
+metallic        金属的
+Germanic      德国的
+angelic        天使（般）的
+fluidic         液体性的
+scenic        自然景色的
+cubic         立方形的
+magnetic      有磁性的
+Byronic        拜伦诗风的
+②[名词后缀]
+1、表示人
+critic          批评家，评论家
+mechanic      技工，机械师
+classic         古典作家
+rustic         乡下人
+cletic          牧师
+sceptic        怀疑论者
+Catholic       天主教徒
+heretic        异教徒
+2、表示“...学”、“...术”及其他抽象名词
+logic          逻辑，伦理学
+rhetoric       修辞学
+arithmetic     算术
+magic         魔术
+topic          题目，论题
+music         音乐
+Arabic        阿拉伯语
+epidemic      流行病
+-ical[形容词后缀]
+由-ic+-al而成，表示“...的”
+atomical       原子的
+typical         典型的
+organical      器官的
+cubical        立方形的
+spherical      球形的
+academical    学院的
+symbolical     象征（性）的
+geometrical    几何学的
+cyclical        循环的
+poetical        诗的
+-ice[名词后缀]
+1、构成抽象名词，表示行为、情况、性质
+service         服务
+justice          正义
+cowardice      胆怯
+malice          恶意
+practice        实践
+armistice       休战，停战
+avarice         贪婪
+caprice         反复无常
+2、表示人
+novice         初学者，新手
+apprentice      学徒
+-ician[名词后缀]
+表示精于某种学术的人、专家、能手或从事某种职业的人
+musician        音乐家
+mathematician   数学家
+physician       内科医生
+electrician       电工
+academician    院士
+logician         逻辑学家
+beautician      美容师
+technician       技术员
+magician       魔术师
+phonetician    语音学家
+geometrician    几何学家
+politician       政客，政治家
+-icity[名词后缀]
+大多数由-ic+-ity而成，构成抽象名词，表示性质、情况、状态
+simplicity       简单，简明
+periodicity      周期性
+historicity      历史性
+publicity        公开（性）
+domesticity    家居生活
+centricity      中心，中央
+sphericity      球状
+atomicity      原子价，原子数
+plasticity       可塑性
+elasticity       弹性，弹力
+-ics[名词后缀]
+表示“...。学”、“...术”
+informatics      信息学
+electronics      电子学
+mechanics      机械学
+politics         政治学
+nucleonics      核子学
+hygienics       卫生学
+oceanics       海洋学
+atomics         原子工艺学
+drmatics        演剧技术
+acrobatics      杂技
+magnetics      磁学
+astronautics     太空学
+pedagogics     教育学
+-id[形容词后缀]
+表示具有...性质的、如...的、含有...的
+florid           如花的
+splendid        逃煌的，华丽的
+fervid           热烈的
+lucid            透明的，明亮的
+fluid            流动的
+stupid          笨的
+liquid           液体的，流动的
+vivid           活泼的
+timid            胆小的
+placid           恬静的
+-ie[名词后缀]
+1、表示小称及爱称
+bridie          小鸟
+doggie         小狗
+piggie         小猪
+girlie          姑娘（爱称）
+lassie         小姑娘
+dearie         亲爱的，宝贝儿
+2、表示与...有关的人或物
+roomie         住在同室的人
+shortie         矮子
+oldie           老人
+toughie         粗野的人，恶棍
+movie          电影
+talkie           有声电影
+nudie          裸体电影
+sweetie        糖果
+-ier[名词后缀]
+1、表示人（专做某种工作或从事某种职业的人）
+cashier         出纳员
+clothier         织布工人，布商
+financier        财政家
+hotelier         旅馆老板
+haulier          拖曳者，运输工
+courtier         朝臣
+bombardier      炮手，投弹手
+grenadier       掷手榴弹者
+missilier         导弹专家
+brigadier        旅长
+brazier          黄铜匠
+glazier          安装玻璃工人
+2、表示物
+barrier          障碍物，栅栏
+frontier         边疆，边境
+glacier          冰河，冰川
+gaselier         煤气吊灯
+-ile①[形容词后缀]
+表示属于...的、有...性质的、易于...的，可...的
+merchantile       商人的，商业的
+infantile          幼小的
+insectile          昆虫的
+contractile        可收缩的
+retractile          能缩回的
+sectile           可切开的
+pulsatile          跳动的
+servile           奴隶的，奴性的
+expansile         可扩张的
+extensile         可伸展的
+juvenile           青少年的
+fertile            肥沃的
+fragile            易碎的
+protractile         可伸出的
+flexile            易弯曲的
+②[名词后缀]
+表示物
+missile            导弹，发射物
+projectile          抛射体，射弹
+textile            纺织品
+automobile        汽车
+domicile          住宅，住处
+-ility[名词后缀]
+由-il(e)+-ity而成，表示性质、状态、情况
+servility          奴性，卑屈
+fertility           肥沃
+juvenility         年少
+contractility       可收缩性
+retractility        能缩回
+agility            敏捷，轻快
+fragility          易碎，脆性
+mobility          易动性，可动性
+sectility          可切性，可分性
+ductility          延展性
+-ine①[形容词后缀]
+表示属于...的、具有...的、如...的、有...性质的
+elephantine      如象的
+crystalline        结晶体的
+infantine         幼儿（期）的
+serpentine       蜿蜒如蛇的
+adamantine      坚硬的
+feminine         女性的
+reverine         河流的，河边的
+metalline        金属（性）的
+nervine          神经的
+asbestine        如石棉的
+zebrine         班马的
+saline           含盐的
+②[名词后缀]
+1、表示抽象名词
+doctrine        教义，主义
+discipline       纪律
+famine         饥荒
+rapine          抢劫，掠夺
+medicine       医学，内科学
+routine         程序，常规
+cholerine       轻霍乱
+2、表示人（多数表示女性）
+heroine         女英雄
+landgravine     伯爵夫人
+libertine        放荡的人
+concubine      妾，姘妇
+3、表示药物名称及化学名词
+tetracycline      四环素
+caffeine         咖啡因
+iodine           碘
+vaseline         凡士林
+antifebrine       退烧药
+chlorine         氯
+-ing①[名词后缀]
+1、构成抽象名词，表示行为、状态、情况及其他
+learning         学问，学识
+feeling          感觉
+shopping        买东西
+walking         步行，散步
+farming         耕作
+schooling       教育
+teaching        教导
+ageing         老化
+sleeping        睡眠
+swimming       游泳
+shipping        装运
+broadcasting    广播
+2、表示...行业、...学、...术、...法
+tailoring         裁缝业
+shoemaking     制鞋业
+banking         银行业，银行学
+accounting      会计学，会计
+hairdressing     理发业
+bonesetting      正骨法
+sailing           航海术，航法
+boxing          拳术
+3、表示总称及材料（与...有关之物，制...所有的材料）
+clothing         衣服
+hatting          制帽材料
+bedding        床上用品
+fleshing         肉色紧身衣
+sacking         麻袋布
+shirting         衬衫料
+bagging         制袋用的材料
+coating         上衣衣料
+felting          制毡材料
+4、表示某种行为的产物，为某种行为而用之物、与某种行为有关之物，与某种事物有关之物
+building          建筑物，楼房
+carving          雕刻物
+holding          占有物
+giving           给予物，礼物
+colouring        颜料
+winning         赢得物，锦标
+filling           填充物，填料
+legging          护腿，绑腿
+footing          立足处，立足点
+washing         待洗的衣服
+②[形容词后缀]
+表示“...的”、“正在...的”、“...着的”、“使...的”
+changing        正在变化的
+burning         燃烧的
+fighting         战斗的
+developing      发展中的
+rising           上升的
+encouraging     振奋人心的
+surprising        使人惊讶的
+exciting         使人兴奋的
+growing         成长中的
+falling           下降的
+③[构成介词]
+excepting        除...之外
+regarding        关于
+concerning      关于
+failing           如果没有
+during           在...期间
+considering      考虑到，就...而论
+-ion[名词后缀]
+1、构成抽象名词，表示行为、行为的过程或结果、情况、状态
+discussion       讨论
+inflation         通货膨胀
+action           活动，作用，行为
+progression      前进，行进
+connection       连结
+prediction        预言，预告
+exhibition        展览会
+election          选举
+perfection        完整无缺
+translation        翻译
+correction        改正
+expression       表达，表示
+association      联系，协会
+dismission       解雇，开除
+prosession      占有，占用
+completion       完成
+2、表示物
+medallion         大奖章
+accordion         手风琴
+falchion          弯形大刀
+cushion           坐垫，靠垫
+-ior①[名词后缀]
+表示人
+warrior           勇士，战士
+superior         上司，上级
+inferior          低下的人，下级
+savior            救助者，救星
+senior           年长者，前辈
+junior            年少者，晚辈
+②[形容词后缀]
+表示较...的、属于...的
+anterior           较前的，先前的
+posterior          较后的，后面的
+exterior           外部的
+interior            内部的
+superior           优越的
+inferior            次的，下等的
+-ious[形容词后缀]
+表示属于...的、有...性质的、...的，同-ous
+contradictious       相矛盾的
+malicious           恶意的
+laborious           勤劳的
+spacious            宽敞的
+rebellious           反叛的
+curious             好奇的
+burglarious          夜盗的
+anxious             焦急的
+contagious          传染的
+specious            外观美丽的
+-ise[动词后缀]
+同-ize，许多词具有-ise与-ize两种后缀形式
+momorise=memorize
+advertise=advertize
+diplomatise=diplomatize
+authorise=authorize
+criticise=criticize
+civilize=civilize
+fertilise=fertilize
+humanize=humanize
+-ish①[形容词后缀]
+1、加在名词之后，表示如...的、似...的、有...性质的
+childish          如小孩的
+girlish           如小女的
+womanish        女子气的
+devilish          魔鬼似的
+boyish           如男孩的
+moonish         似月亮的
+hellish           地狱似的
+bookish          书生气的
+foolish           愚蠢的，笨的
+piggish          猪一样的
+wolfish          狼似的
+monkish         似僧的
+slavish          奴隶般的
+youngish        还年轻的
+2、加在形容词之后，表示含有某种程序的、略...的、稍...的
+coldish          略寒的，稍冷的
+warmish         稍暖的
+oldish           略老的，稍旧的
+tallish           略高的
+sweetish        略甜的
+wettish          略湿的
+greenish         略带绿色的
+yellowish        微黄的
+longish          略长的，稍长的
+fattish           稍胖的
+slowish          稍慢的
+2、表示某国的或某民族的、兼表某国的语言
+English          英国的，英语
+Swedish         瑞典的，瑞典语
+Spanish          西班牙的，西班牙语
+Polish            波兰的，波兰语
+Irish             爱尔兰的，爱尔兰语
+Finnish          芬兰的，芬兰语
+Turkish          土耳其的，土耳其语
+Danish          丹麦的，丹麦语
+②[动词后缀]
+表示做...、致使...、造成...、成为...
+nourish          滋养，养育
+establish         设立，建造
+flourish          繁荣，兴旺
+improverish      使穷困
+diminish          使缩小，变小
+vanish           消逝
+publish          公布
+finish            结束
+-ism[名词后缀]
+1、表示“...主义”
+materialism      唯物主义
+idealism         唯心主义
+imperialism      帝国主义
+splittism         分裂主义
+adventurism      冒险主义
+extremism       极端主义
+realism          现实主义
+pessimism       悲观主义
+optimism         乐观主义
+capitalism        资本主义
+opportunism     机会主义
+expansionism     扩张主义
+2、表示宗教
+Islamism         伊斯兰教
+Moslemism       清真教，回教
+Mohammedanism  回教
+Hinduism         印度教
+quietism          寂静教
+Buddhism        佛教
+Taoism          （中国的）道教
+Confucianism    （中国的）儒教
+Lamaism         喇嘛教
+Catholicism       天主教
+Shintoism       （日本）神道教
+Judaism          犹太教
+3、表示语言、语风
+commercialism     商业用语
+provincialism       方言，土语
+colloquialism       口语
+archaism          古语，古风
+Scotticism         苏格兰方言
+Americanism       美国用语
+Londonism         伦敦语调
+Latinism            拉丁语风，语法
+Turkism           土耳其语风
+euphemism        婉言，婉词
+4、表示风格、特征
+Asiaticism          亚洲风格
+orientalism         东方风格
+Grecism           希腊风格
+Germanism        德意志风格
+Slavism            斯拉夫族风格
+occidentalism      西方人特征
+5、表示行为、现象
+escapism         逃避现实
+me-tooism        附和，人云亦云
+simplism          片面看问题，过分简单化
+Methodism        墨守成规
+volcanism         火山活动
+loyalism          效忠
+criticism          批评
+tourism           旅游，观光
+baptism           洗礼
+ageism           对老年人的歧视
+sexism           性别歧视
+devilism          魔鬼似的行为
+parasitism        寄生现象
+brigandism        土匪行为
+6、表示“...学”、“...术”、“...论”、“...法”
+magnetism        磁学
+spiritism          招魂术
+historicism        历史循环论
+know-nothingism   不可知论
+exceptionalism    例外论
+fatalism           宿命论
+phoneticism       音标表音法
+pedagogism       教授法
+stimulism          兴奋疗法
+atomism          原子论
+7、表示学术、文艺上的“...派”
+modernism       现代派
+cubism          （艺术的）立体派
+futurism         未来派
+impressionism    印象派
+abstractionism    抽象派
+purism           纯粹派
+structurism       结构派
+Platonism        柏拉图学派
+Socratism        苏格拉底学派
+expressionism    表现派
+8、表示某种特性
+insularism        岛国性质
+humanism       人性
+brutalism        兽性
+globalism        全球性
+diehardism      顽固
+foreignism       外国风俗习惯
+professionalism   职业特性
+antagonism       对抗性
+absurdism       荒唐性
+9、表示情况、状态
+gigantism         巨大畸形
+barbarism        野蛮状态
+bachelorism      独身
+alienism         华侨身份
+dwarfism        矮小
+secdigitism      六指（趾）
+androgynism     半男半女
+invalidism        久病，伤残
+10、表示制度
+multiparism       多党制
+federalism        联邦制
+parliamentarism   议会制
+centralism        中央集权制
+landlordism       地方所有制
+protectionism     保护贸易制
+11、表示疾病名称
+deaf-mutism      聋哑症
+rheumatism      风湿症
+alcoholism       酒精中毒症
+morphinism      吗啡中毒症
+iodism           碘中毒症
+albinism         白化病
+12、其他
+patriotism        爱国心
+organism        有机体
+mechanism       机械装置
+journalism        新闻业
+progressivism     进步人士的政见
+-ist①[名词后缀]
+1、表示某种主义或某种信仰者
+communist        共产主义者
+socialist          社会主义者
+nationalist         民族主义者
+collectivist         集体主义者
+materialism       唯物主义者
+maturalist         自然主义者
+imperialist        帝国主义者
+extremist          极端主义者
+2、表示从事某种职业的人、从事某种研究的人、与某事物有关的人
+aritist            艺术家
+scientist         科学家
+typist            打字员
+novelist          小说家
+violinist          小提琴手
+physicist         物理学家
+dentist           牙科医生
+tobacconist       烟草商人
+chemist          化学家
+copyist          抄写员
+motorist         驾驶汽车者
+druggist         药商，药剂师
+moralist         道德家
+progressist       进步分子
+②[形容词后缀]
+表示...主义的
+communist       共产主义的
+socialist          社会主义的
+Marxist          马克思主义的
+materialist        唯物主义的
+nationalist        民族主义的
+capitalist         资本主义的
+-ister[名词后缀]
+表示人
+palmister         看手相者
+chorister         合唱者
+sophister        诡辩家
+-istic[形容词后缀]
+复合后缀，由-ist+-ic而成，表示关于...的、属于...的、有...性质的、...主义的、...论的（参见-istical）
+colouristic       色彩的
+simplistic        过分简单化的
+humoristic       幽默的
+idealistic         唯心论的
+futuristic         未来的
+fatalistic         宿命论的
+artisitic          艺术的
+humanistic       人道主义的
+realistic          现实主义的
+antagonistic      敌对的
+characteristic     表示特性的
+novelistic         小说的
+-istical[形容词后缀]
+复合后缀，由-ist+-ie+-al而成，表示“...的”。有些词兼有-istic和-istical两种后缀形式
+artistical         艺术的
+atomistical       原子论的
+idealistical       唯心论的
+theisitcal        有神论的
+antagonistical    敌对的
+Buddbistical     佛教的
+egoistical        利已主义的
+linguistical       语言学的
+-it[名词后缀]
+1、表示人
+bandit           匪徒
+hermit           隐士
+Jesuit           耶稣会会员
+2、表示抽象名词
+spirit            精神，气概
+unit             单位，单元
+credit           信用，信任
+summit          顶点，最高层
+pursuit          追赶，追求
+plaudit           喝采，赞扬
+deficit            亏空，赤字
+orbit             轨道
+-ite①[名词后缀]
+表示人
+suburbanite      郊区居民
+socialite         社会名流，名人
+Tokyoite         东京市民
+Muscovite        莫斯科人
+computerite      计算机人员
+Yemenite        也门人
+Islamite          伊斯兰教徒
+Israelite          以色列人
+Labourite         工党赏员
+favorite          喜爱的人
+bedlamite        精神病人
+negroite          同情黑人者
+②[形容词后缀]
+表示具有...性质的
+partite            分成若干部分的
+composite        合成的
+opposite          对立的，对面的
+exquisite          精美的，精致的
+definite           明确的，一定的
+polite             文雅的
+erudite           博学的
+③[动词后缀]
+表示做...、作成...
+unite             联合，统一
+expedite          加快，促进
+ignite             点燃，点火
+-ition[名词后缀]
+1、表示行为、行为的过程或结果、由行为而产生的事物
+supposition       想象，推测
+proposition       提议
+oppsition         反对，反抗
+expositon        暴露
+composition       组成（物），作文
+competition       比赛，竞争
+addition           附加，附加物
+imbibition         吸入，吸收
+partition          分开，分隔
+recognition       认出，承认
+2、表示情况，状态
+audition           听觉，听力
+erudition          博学
+inanition           空虚
+dentition          出牙
+deglutition         吞咽困难
+perdition          毁灭，沉沦
+-itious[形容词后缀]
+表示有...性质的，属于...的、具有...的，意义与-ous同
+suppositious       想象的，假定的
+cementitious       水泥的
+adventitious        外来的，偶然的
+factitious          人为的
+expeditious        急速的
+nutritious          有营养的
+fictitious           虚构的
+-itive[形容词后缀]
+表示“...的”，意义同-ive
+compositive        合成的，组成的
+suppositive         想象的，假定的
+additive            添加的
+sensitve            敏感的
+competitive         比赛的，竞争的
+partitive            区分的，分隔的
+punitive            惩罚性的
+definitive           决定的，确定的
+primitive            原始的，简单的
+-itor[名词后缀]
+表示人
+servitor            侍从，男仆
+compositor         排字工人
+progenitor          祖先
+janitor              看门人
+competitor          比赛者，竞争者
+expositor           讲解者，说明者
+-itude[名词后缀]
+构成抽象名词，表示情况、性质、状态、事物
+correctitude         端正
+exactitude          正确（性）
+promptitude         敏捷，迅速
+amplitude          广阔，广大
+aptitude            聪明，颖悟
+solitude           孤独，孤寂
+plenitude          充足，丰富
+servitude           奴隶状态，奴役
+similitude          相似，类似
+longitude           经度
+latitude            纬度
+gratitude           感激，感谢
+-ity[名词后缀]
+构成抽象名词，表示性质、情况、状态及其他，与-ty同
+speciality          特性，特长
+humanity          人性，人类
+equality           平等，均等
+reality             现实，真实
+futurity            将来，未来
+modernity         现代性
+mutuality          相互关系
+perplexity         困惑
+fluidity            流动性
+familiarity         熟悉，通晓
+popularity         通俗，平易
+complexity        复杂性
+generality         一般（性）
+extremity         极端，极度
+fixity             固定性
+immensity        广大，巨大，无限
+-ive①[形容词后缀]
+表示有...性质的、有...作用的、有...倾向的、属于...的
+educative         有教育作用的
+protective         保护的，防护的
+impressive         印象深刻的
+preventive         预防的
+purposive         有目的的
+resistive           抵抗的
+creative            创造性的
+progressive        进步的
+amusive           娱乐的
+productive         生产（性）的
+constructive        建设（性）的
+attractive          有吸引力的
+selective          选择的
+expensive         花钱多的
+②[名词后缀]
+1、表示人
+detective          侦探，密探
+native             本地人，土人
+relative            亲戚
+representative      代表
+progressive        进步人士
+executive          执行者
+2、表示物
+locomotive         火车头，机车
+explosive          炸药，爆炸物
+directive           指令
+adhesive           胶粘剂
+anticorrosive       防腐蚀剂
+preventive         预防药
+olive              橄榄（树）
+3、构成抽象名词
+motive             动机
+offensive          攻势
+subjunctive        虚拟语气
+initiative           主动
+perspective        透视，眼力
+alternative          取舍，抉择
+-ivity[名词后缀]
+复合后缀，由-iv(e)+-ity而成，构成抽象名词，表示情况、状态、“...性”、“...力”
+productivity         生产能力，生产率
+resitivity            抵抗力，抵抗性
+activity             活动性，活动
+conductivity         传导性
+selectivity           选择（性）
+crativity            创造力
+collectivity           集体（性）
+relativity            相关性
+expressivity         善于表达
+captivity            被俘
+-ization[名词后缀]
+复合后缀，由-iz(e)+-ation而成，表示行为的过程或结果，“...化”，与动词后缀-ize相对应
+modernization        现代化
+industrialization       工业化
+mechanization       机械化
+normalization        政党化
+revolutionization     革命化
+realization           实现
+economization       节约，节省
+centralization         集中
+popularization        普及，推广
+organization         组织，团体
+-ize[动词后缀]
+表示“...化”、照...样子做、按...方式处理，变成...状态，使成为...，与名词后缀-ization相对应
+modernize         （使）现代化
+industrialize        （使）工业化
+mechanize         （使）机械化
+normalize          （使）正常化
+organize            组织
+realize              实现
+economize          节约，节省
+centralize          （使）集中
+popularize          使普通，推广
+revolutionize       （使）革命化
+-kin[名词后缀]
+表示小
+ladykin             小妇人
+lambkin            羔羊
+princekin           小君主，幼君
+pannikin           小盘，小平锅
+manikin             矮子，侏儒
+devilikin            小魔鬼
+cannikin            小罐
+napkin              揩嘴布，餐布
+-le①[动词后缀]
+1、表示反复、连续及拟声动作
+winkle            闪烁，闪耀
+twinkle           闪烁，闪耀
+wriggle           蠕动，扭动
+joggle            轻摇
+jingle             作丁当响
+tinkle             发丁当声
+sizzle            发咝咝声
+gurgle            发咯咯声
+2、将形容词或名词变成动词
+darkle            变暗
+speckle           使弄上斑点
+sparkle           发火花
+handle            拿，搬弄，操纵
+②[名词后缀]
+表示做某种动作时所使用的东西
+thimble          顶针（thimb=thumb拇指）
+shuttle          织布梭（shut=shoot抛出）
+stopple          塞子
+spindle          纺纱锭子（spin纺）
+handle          柄，把手
+girdle           带，腰带
+-less[形容词后缀]
+表示“无...的”、“不...的”
+homeless        无家可归的
+useless          无用的
+hopeless        无希望的
+colourless       无色的
+waterless        无水的，干的
+rootless         无根的
+jobless          无职业的
+shameless       无耻的
+sleepless        不眠的
+tireless          不倦的
+ceaseless        不停的
+countless        数不清的
+fruitless          不结果实的
+regardless       不注意的
+restless          不休息的
+changeless       不变的
+-let[名词后缀]
+表示小
+booklet           小册子
+houselet          小房子
+starlet            小星
+townlet           小镇
+piglet             小猪
+rootlet            小根，细根
+droplet            小滴，飞沫
+cloudlet           小杂云
+playlet             小型剧
+filmlet             短（电影）片
+bomblet           小型炸弹
+lakelet             小湖
+leaflet             小叶
+statelet            小国家
+springlet          小泉
+streamlet          小溪
+dovelet            幼鸽
+hooklet            小钩子
+kinglet            小国王，小王
+chainlet            小链子
+-like[形容词后缀]
+表示如...的、有...性质的
+dreamlike         如梦的
+steellike          钢铁般的
+childlike          孩子般天真的
+warlike           好战的，军事的
+godlike           上帝般的
+princelike        王子般的
+manlike           有男子气概的
+womanlike        女人似的
+fatherlike         父亲般的
+motherlike         母亲般的
+stralike           象星一样的
+springlike         如春的
+-ling①[名词后缀]
+1、表示小
+birdling           小鸟，幼鸟
+catling            小猫
+pigling            小猪
+wolfling           小狼，狼崽
+duckling          小鸭
+gosling            小鹅
+seedling          幼苗，籽苗
+princeling         小君主
+2、表示与某种事物（或情况）有关的人或动物、具有某种性质的人或动物
+starveling         饥饿的人
+weakling          体弱的人
+hireling           被雇的人
+underling         部下，下属
+nurseling         乳婴，乳儿
+suckling          乳儿，乳兽
+fondling          被宠爱者
+witling           假装聪明的人
+earthling          世人，凡人，俗人
+fingerling         一指长的小鱼
+cageling          笼中鸟
+yearling           一岁的动物
+firstling           初产的动物
+fatling            养肥备宰的幼畜
+worldling         凡人，世俗之徒
+youngling         年轻人，幼小，动物，幼苗
+②[形容词及副词后缀]
+表示状态
+darkling           在黑暗中（的）
+sideling           斜向一边（的）
+-logical[形容词后缀]亦作-logic
+表示“...学的”、由-log(y)+-ic+-al而成
+biological          生物学（上）的
+oceanological      海洋学的
+geological         地质学的
+climatological      气候学的
+zoological         动物学的
+phiological        语言学的
+technological       细菌学的
+bacteriological     细菌学的
+-logist[名词后缀]偶作-loger
+表示“...学家”、“...研究专家”，由-log(y)+-ist而成
+biologist           生物学家
+oceanologist       海洋学家
+volcanologist       火山学家
+zoologist          动物学家
+climatologist       气候学家
+bacteriologist      细菌学家
+seismologist       地震学者
+dialectologist      方言学家
+Sinologist         汉学家
+Pekingologist      北京通
+musicologist       音乐研究专家
+geologist          地质学家
+technologist       工艺学家
+-logy[名词后缀]亦作-ology
+表示“...学”、“...研究”、“...论”、“...法”，与-logical，-logist相对应
+biology           生物学
+zoology          动物学
+oceanology       海洋学
+climatology       气候学
+dialectology      方言学
+mineralogy        矿物学
+bacteriology      细菌学
+musicology       音乐研究
+methodology      方法论
+escapology       逃避法
+volcanology      火山学
+vitaminology      维生素学
+-ly①[形容词后缀]
+1、加在名词之后，表示如...的、有...特征的、属于...的
+friendly          友好的
+homely          家常的，亲切的
+fatherly          父亲般的
+childly           孩子般天真的
+heavenly         天上的
+mannerly         有礼貌的
+manly            男子气概的
+womanly         有女子气质的
+godly            神的，神圣的
+costly            昂贵的
+lovely            可爱的，好看的
+worldly           世间的
+2、加在时间名词之后，表示“每...的”、“每...时间一次的”；这类词有的可兼作名词，表示报刊
+hourly            每小时的
+daily              每日的，日报
+weekly           每周的，周刊
+yearly            每年的
+nightly            每夜的
+monthly          每月的，月刊
+quarterly         按季度的，季刊
+②[副词后缀]
+1、加在时间名词之后，表示“每...地”、“每...时间一次地”
+hourly           每小时地
+daily            每日地
+nightly           每夜地
+weekly          每周地
+monthly         每月地
+quarterly        每季度地
+yearly           每年地
+[注]加在其他名词之后，也可构成副词
+namely          也就是，即
+friendly          朋友般地
+fatherly         父亲般地
+partly           部份地
+mannerly        有礼貌地
+timely           及时地
+2、加在形容词之后，构成副词，表示状态、程度、方式、“...地”
+truly            真正地，确实地
+greatly          大大地
+fearfully         可怕地
+newly           亲近，最近
+clearly          清楚地
+coldly           冰冷地
+really           真正地
+badly           恶劣地
+quickly          迅速地
+quietly          安静地
+gloriously        光荣地
+similarly         相似地
+usefully         有用地
+recently         最近
+-ment[名词后缀]
+1、表示行为、行为的过程或结果
+movement       运动，移动
+management     管理，安排
+development    发达，发展
+establishment     建立，设立
+argument        争论，辩论
+treatement       待遇
+punishment      处罚
+enlargement      扩大
+agreement       同意，协定
+advertisement    广告，登广告
+statement        陈述，声明
+judgement       判断，判决
+shipment        装船，装运
+amusement      娱乐，消遣
+enjoyment       享受
+encouragement   鼓励
+2、表示物
+embankment     堤岸
+pavement        人行道
+nutriment        营养品
+battlement       城墙垛
+attachment       附属物
+westment        外衣，制服
+fragment         碎片，碎块
+equipment       装备，设备
+medicament      药物，药剂
+basement        地下室
+apartment        房间
+armament        兵器
+monument        纪念碑
+3、表示组织、机构
+government       政府
+parliament        国会，议会
+establishment     建立的机构，行政机关
+department       部、局、司、部门
+regiment         团
+-most[形容词后缀]
+表示最...的
+easternmost       最东的
+westernmost       最西的
+topmost          最高的
+lowermost         最低的
+uppermost         最高的
+rearmost          最后面的
+middlemost        最当中的
+headmost         最前面的
+aftermost          最后面的
+inmost            最里面的
+outmost          最外面的
+foremost         最前面的
+hindmost         最后面的
+farmost          最远的
+-ness[名词后缀]
+加在形容词之后，构成抽象名词，表示性质、情况、状态
+greatness        伟大
+friendliness       友好，友善
+kindness         仁慈，好意
+darkness         黑暗
+emptimess        空虚，空洞
+likeness          相似，类似
+willingness       心甘情愿
+softness          柔软
+goodness         善行，优良
+badness          恶劣，坏
+weakness        懦弱，虚弱
+tiredness         疲倦，疲劳
+bitterness        苦，苦难
+holiness          神圣
+idleness          懒惰
+blindness         盲目
+-nik[名词后缀]
+表示...的人、...迷
+protestinik        抗议者
+citynik            城市人，迷恋城市者
+peacenik         反战运动者
+filmnik           电影迷
+cinenik           电影迷
+nudnik           无聊的人
+no-goodnik       不怀好意者
+boatnik          船户，水上人家
+computernik       电脑人员
+goodwillnik        捧场人
+folknik           民歌爱好者
+jazznik           爵士乐迷
+-o[名词后缀]大多数来自意大利语
+1、表示音乐术语及乐器名称
+solo             独唱，独奏（曲）
+soprano         女高音
+basso           低音部，男低音
+alto             女低音，男高音
+concerto        协奏曲
+piano           钢琴
+piccolo          短笛
+tempo          速度
+trio             三部合奏，三重奏
+oratorio        圣乐
+2、表示人
+Negro         黑人
+politico        政客
+typo           排字工人
+desperado     亡命徒，暴徒
+mularto        黑白混血儿
+fantastico      可笑的怪人
+albino         患白化病者
+Latino         拉丁美洲人
+bravo         歹徒，亡命徒
+magnifico      高官，贵人
+maestro        艺术大师
+virtuoso       艺术鉴赏家
+buffo          滑稽男演员
+3、表示物
+studio          工作室
+volcano         火山
+quarto          四开本
+dynamo         发电机
+flamingo        火烈鸟，红鹤
+octavo          八开本
+sexto           六开本
+folio            对开本，对折纸
+portico          门廊
+4、表示抽象名词及其他
+manifesto        宣言，声明
+ratio             比率，比
+fiasco           大败，惨败
+motto           格言，座右铭
+salvo          （炮火）齐射
+lingo            行活，隐语
+fresco          壁画（法）
+junto            秘密政治集团
+gusto           嗜好，爱好
+credo          （宗教）信条
+-on[名词后缀]
+1、表示人
+southron         南方人
+Briton           英国人
+patron           保护人
+matron           主妇
+archon           主要官员
+glutton           贪吃者
+2、表示物
+automaton       自动装置
+carton           纸板（箱）
+cordon          饰带
+wagon          运货车
+3、构成物理学名词，表示物质结构成分，“...子”
+electron          电子
+photon           光子
+photoelectron     光电子
+proton           质子
+neutron          中子
+magneton        磁子
+meson           介子
+hyperon          超子
+-oon[名词后缀]
+1、表示物
+spittoon         痰盂
+balloon          气球
+saloon           大厅
+musketoon      短枪
+cartoon          动画片
+bassoon        低音管，巴颂管
+festoon         花彩，彩饰
+macaroon       小杏仁饼
+2、表示人
+buffoon         小丑，演滑稽戏的人
+quadroon      （有四分之一黑人血统的）混血儿
+maroon         被放逐到孤岛的人
+poltroon        胆小鬼，懦夫
+picaroon        流浪汉，盗贼
+-or[名词后缀]
+1、表示人
+actor           行动者，男演员
+translator       翻译者，译员
+oppressor      压迫者
+educator        教育者
+supervisor      监督人
+sailor           水手，海员
+debtor          负债人
+constructor      建造者
+elector          选举者
+protector        保护者
+corrector        矫正者，校对员
+inventor        发明者
+governor        总督，省长
+bettor          打赌者
+2、表示物
+tractor          拖拉机
+conductor       导体
+receptor         接受器
+detector        探测器
+mirror           镜子
+incisor          门牙
+televisor         电视机
+compressor      压缩器
+separator        分离器
+resistor          电阻器
+rotator           旋转器
+flexor            曲肌
+-orium[名词后缀]
+表示场所，地点
+auditorium       礼堂，讲堂
+beautorium      美容院
+healthatorium    疗养院
+sanatorium       疗养院
+crematorium      火葬场
+natatorium      （室内）游泳池
+-ory①[形容词后缀]
+表示有...性质的、属于...的、与...有关的
+advisory          忠告的，顾问的
+contradictory      矛盾的
+appreciatory       有欣赏力的
+revisory           修订的，修正的
+rotatory           旋转的
+compulsory        强迫的
+exhibitory          显示的
+dictatory          独裁的，专政的
+possessory        占有的
+sensory           感觉的
+promissory        允诺的
+separatory         分离用的
+denunciatory       谴责的
+②[名词后缀]
+1、表示场所，地点
+factory            工厂
+protectory         贫民收容所
+depository        保存处，仓库
+dormitory         集体宿舍
+repository         贮藏所
+armory            军械库
+ambulatory        回廊
+crematory         火葬场
+oratory           祈祷室
+consistory         宗教法庭
+2、表示物
+directory         姓名地址录
+incensory        香炉
+inventory         财产目录
+territory          领土，领地
+-ose[形容词后缀]
+表示“...的”
+golbose         球形的
+operose         费力的，用功的
+verbose         冗长的
+grandiose       宏大的
+jocose          开玩笑的
+flexouse         弯弯曲曲的
+nervosa        （植物）多脉的
+fibrillose         有原纤维的
+-osity[名词后缀]
+构成抽象名词，表示性质、状态、情况，与形容词后缀-ous与-ose相对应
+curiosity         好奇心
+globosity        球形，球状
+grandiosity       宏大，雄伟
+fabulosity        寓言性质
+generosity       慷慨，大方
+jocosity          滑稽
+verbosity        冗长
+flexuosity        弯曲状态
+-ot[名词后缀]
+1、表示人
+patriot           爱国者
+zealot           热心者
+pilot             领航员，飞行员
+compatriot       同胞
+idiot             白痴，傻子
+Cypriot         塞浦路斯人
+Italiot           意大利南部古希腊殖民地居民
+Zantiot        （希腊）赞德岛的土人
+2、表示物
+chariot          战车
+ballot           选票
+carrot          胡萝卜
+galliot          平底小船
+-ous[形容词后缀]
+表示有...性质的、属于...的、如...的、有...的、多...的
+dangerous       危险的
+courageous      勇敢的
+mountainous     多山的，如山的
+glorious         光荣的
+prosperous      繁荣的
+riotous           暴乱的
+mischievous     调皮的
+poisonous        有毒的
+advantageous     有利的
+continuous        继续不断的
+victorious         胜利的
+zealous           热心的，热情的
+famous          著名的
+vigorous         精力充沛的
+pompous         壮丽的
+disastrous        灾难性的
+-proof[形容词后缀]
+表示防...的，不透...的
+fireproof          防火的
+waterproof        防水的
+rainproof          防雨的
+coldproof         抗寒的
+smokeproof       防烟的
+airproof          不透气的
+lightproof         不透光的
+soundproof      隔音的
+bombproof       防炸弹的
+gasproof         防毒气的
+-ress[名词后缀]
+表示女性，与-ess同
+actress          女演员
+waitress         女服务员
+interpretress     女译员
+creatress        女创造者
+dictatress        女独裁者
+chantress        女歌唱者
+eletress         女选举人
+huntress         女猎人
+editress         女编辑
+protectress       女保护者
+foundress        女创立人
+aviatress         女飞行员
+-rix[名词后缀]
+表示女性（亦作-trix）
+aviatrix          女飞行员
+executrix        女执行者
+adminstratrix     女管理员
+interlocutrix      女对话者
+agitatrix         女鼓动者
+arbitratrix        女调解员
+testratrix         女遗嘱人
+prosecutrix       女原告，女起诉人、
+-ry[名词后缀]
+1、表示行为、状态、情况、性质
+banditry         盗匪活动
+rivalry           敌对，竞争
+outlawry        逍遥法外
+musketry        步枪射击
+artistry          艺术性
+pleasantry       诙谐，开玩笑
+devilry           邪恶，魔法
+mimicry         模仿，学样
+pedantry         迂腐，卖弄学问
+bigotry          顽固，偏执
+2、表示...学、...术、...行业
+forestry          林学，林业
+chemistry        化学
+weaponry        武器设计，制造学
+dentistry         牙科学
+merchantry       商业，商务
+carpentry         木工业
+masonry         石工业
+husbandry        耕作
+palmistry         相手术
+rocketry          火箭技术
+falconry          猎鹰训练术
+3、表示修合名词（总称）
+peasantry        农民（总称）
+citizenry         公民（总称）
+Englishry        英国人（总称）
+poetry          诗（总称）
+tenantry         承租人（总称）
+weaponry        武器（总称）
+yeomanry        自由民（总称）
+gentry           绅士们，贵族们
+4、表示场所、地点、工作处
+pigeonry         鸽舍，鸽棚
+foundry          铸工车间
+chantry          附属小教堂
+almonry          施赈所
+laundry          洗衣房
+pantry           食品室
+vestry           教堂的法衣室
+-s[副词后缀]
+表示时间、地点、方式、状态
+afternoons       每天下午
+nights           每夜，在夜间
+weekends       在每个周末
+sometimes      有时
+besides         此外，而且
+unawares       不知不觉地
+nowadays        现今，当今
+outdoors        在户外
+indoors         在屋内
+upstairs         在楼上，往楼上
+downstairs      在楼下，往楼下
+weekdays       在每个周日
+-ship[名词后缀]
+1、表示情况、状态、性质、关系
+friendship       友谊，友好
+hardship        困难，受苦
+scholarship      学问，学识
+dictatorship      专政
+partnership      合伙关系
+comradeship     同志关系
+fellowship       伙伴关系，交情
+relationship      亲属关系，联系
+2、表示身份，职位，资格，权限
+citizenship       公民权或身份
+kingship         王位，王权
+membership      成员资格
+instructorship     讲师资格
+managership     经理职位
+rulership         统治权
+lordship         贵族身份
+colonelship       上校衔
+doctorship        博士学位
+professorship     教授职位
+sonship          儿子身份
+studentship      学生身份
+ladyship         贵妇人身份
+interpretership    译中职务
+heirship          继承权
+3、表示技艺，技能，...法，...术
+airmanship       飞行技术
+salesmanship     售货术
+penmanship       书法
+marksmanship     射击术
+huntsmanship      打猎术
+workmansip       手艺，工艺
+horsemanship     骑马术
+watermanship     划船技术
+-sion[名词后缀]
+表示行为、行为的过程或结果、情况、性质，与-ion同，它所构成的名词大多由以-d，-de ,-i为结尾的动词派生而来（如：expand→expansion，decide→decision，covert→conversion）
+expansion        扩张，扩展
+conclusion        结论，结束
+decision         决定
+comprehension    理解
+declension       倾斜
+collision         （车船）碰撞
+suspension       悬挂，停止
+extension        伸展，延伸
+division          分开，分割
+conversion       转变，变换
+-some[形容词后缀]
+表示充满...的，易于...的，产生...的，有...倾向的。具有...的，令...的
+gladsome         令人高兴的
+playsome         爱玩耍的
+laboursome       费力的
+troublesome       令人烦恼的
+toothsome        美味可口的
+venturesome       好冒险的
+awesome         可畏的
+wearisome        令人厌烦的
+darksome         阴暗的
+fearsome         可怕的
+burdensome       沉重的
+quarrelsome      好争吵的
+lonesome         孤独的
+bothersome       麻烦的
+gamesome        爱玩耍的
+tiresome          令人厌倦的
+-ster[名词后缀]
+表示人
+songster          歌手，歌唱家
+youngster         年轻人，小孩
+oldster            老人
+minister           部长，大臣
+punster           爱有双关语者
+gagster           开玩笑的人
+speedster         超速驾驶者
+penster           作者
+teenster          十几岁的少年
+tonguster         健谈的人
+spinster          纺织女
+tapster           酒吧间招待员
+teamster         卡车司机，赶牲口者
+maltster          制造麦芽者
+[注]有此词含有贱称、卑称意义
+gamester        赌徒，赌棍
+trickster         骗子
+gangster        匪徒，歹徒
+mobster         暴徒，匪徒
+rhymester       作打油诗的人，劣等诗人
+-th[名词后缀]
+构成抽象名词，表示行为、性质、状态、情况
+warmth          温暖，热情
+coolth           凉爽，凉
+growth          成长，发育
+stealth          秘密行动，秘密
+strength         力量（streng=strong）
+breadth         力度（bread=broad）
+length           长度（leng=long）
+width            宽度（wid=wide）
+depth           深度（dep=deep）
+truth            真理（tru=true）
+[注]加在基数词之后，表示“第...”、兼表“...分之一”
+fourth           第四，四分之一
+fifth             第五，五分之一
+sixth            第六，六分之一
+seventh         第七，七分之一
+-tic[形容词后缀]
+表示属于...的、有...性质的、与...有关的，与-ic同
+Asiatic           亚洲的，属于亚洲的
+dramatic         戏剧（性）的
+romantic         浪漫的，传奇的
+paraphrastic      意译的
+cinematic         电影的
+schematic        纲要的
+asthmatic        患哮喘病的
+operatic          歌剧的
+-tion[名词后缀]
+构成抽象名词，表示行为、行为的过程或结果、状态、情况，与-ion同
+intervention       干涉，干预
+attention         注意
+convention        集会，会议
+introduction       介绍，引进
+production        生产
+description        描写，描述
+contention         竞争，斗争
+reduction         减少，缩减
+-ture[名词后缀]亦作-ature和-iture
+表示行为、行为的结果以及与行为有关之物
+mixture           混合，混合物
+fixture            固定，固定物
+coverture         覆盖，覆盖物
+expenditure       花费，支出
+fixature           定型发胶
+signature          签名，署名
+curvature         弯曲（部份）
+armature          盔甲
+divestiture         脱衣，剥夺
+garniture          装饰品
+-ty[名词后缀]
+构成抽象名词，表示性质、情况、状态、权限
+specialty           特性，专长
+safety             安全
+entirety            整体，全部
+surety             确实
+penalty            刑罚，处罚
+royalty             王位，王权
+certainty           肯定，确实
+cruelty             残忍，残酷
+loyalty             忠诚，忠心
+novelty            新奇，新颖
+subtlety           精巧，微妙
+sovereignty         主权，统治权
+[注]-ty亦表示“...十”
+sixty               六十
+seventy            七十
+eighty              八十
+ninety              九十
+-ual[形容词后缀]
+表示“...的”，与-al同
+textual             原文的，本文的
+actual             实际的，现实的
+sexual            性的，有性别的
+spiritual           精神（上）的
+accentual         （关于）重音的
+sensual          感觉的
+gradual           逐渐的
+effectual         有实效的
+habitual          习惯（上）的
+contractual       契约的
+perceptual        感性的
+intellectual        智力的
+conceptual        概念的
+-ular[形容词后缀]
+表示似...形状的、有...性质的、属于...的
+globular          球状的
+spherular        小球状的
+zonular          小带（状）的
+cellular           细胞的
+nodular          小节的，节状的
+jocular           滑稽的（joc=joke）
+-ule[名词后缀]
+表示小
+spherule          小球（体）
+globule           小球
+barbule           小倒刺
+granule           细粒（gran=grain）
+antennule         小触须
+zonule            小带，小区域
+cellule             小细胞
+nodule            小节，小瘤
+pilule              小药丸（pil=pill）
+gemmule          微芽
+-ulous[形容词后缀]
+表示易于...的、多...的、如...形状的、有...性质的、属于...的，同-ous
+tubulous            管状的
+acidulous           略酸的
+pendulous          悬垂的
+globulous           球状的
+credulous          轻信的
+bibulous           爱喝酒的
+-um[名词后缀]
+表示场所、实物及抽象名词
+museum           博物馆
+mausoleum        陵墓
+asylum            避难所，收容所
+forum             法庭，论坛
+sanctum           圣所，私室
+minimum          最小量
+plenum            充满，全体会议
+symposium        酒会，座谈会，讨论会
+rectum            直肠
+hypogeum         地下室，窖
+contagium         接触传染物
+vacuum            真空（状态），真实度
+-uous[形容词后缀]
+表示有...性质的，属于...的、有...的，同-ous
+sensuous         感觉上的
+assiduous         刻苦的
+innocuous         无害的
+conspicuous       明显的
+ambiguous        两可的
+contemptuous      轻视的
+flexuous           弯弯曲曲的
+promiscuous       杂乱的，混杂的
+-ure[名词后缀]
+构成抽象名词，表示行为、行为的结果、状态、情况
+departure         离开，出发
+pressure          压力，压
+failure            失败
+exposure         暴露，揭露
+sculpture         雕刻（品）
+seizure           抓住，捕捉
+contracture       挛缩
+closure           关闭，结束
+disclosure        泄露
+moisture          潮湿，湿度
+creature          创造物，生物
+procedure        程序，步骤
+flexure          弯曲
+pleasure         愉快
+-ward[形容词及副词后缀]
+表示“向...的”、“向...”、“朝...”
+downward        向下的，朝下
+upward           向上的，朝上
+northward        向北的，朝北
+southward        向南的，朝南
+sunward         向阳的，向太阳
+backward         向后的，向后
+outward          向外的，向外
+inward            向内的，向内
+seaward          向海的，朝海
+homeward        向家的，向家
+-wards[副词后缀]
+表示“向...”、“朝...”
+downwards        向下，朝下
+upwards           向下，朝上
+northwards       向北，朝上
+southwards       向南，朝南
+sunwards         向太阳
+backwards        向后
+outwards         向外
+inwards          向内
+-ways[副词后缀]有的兼作形容词后缀
+表示方向、方式、状态，常与-wise通用
+crossways        交叉地（的）
+cornerways       对角地，斜
+endways         末端朝前地
+lengthways       纵长地
+cosstways        沿海岸
+sideways         斜向一边地（的）
+-wise[副词后缀]有的兼作形容词后缀
+1、常与-ways通用，表示方向、方式、状态
+crosswise         交叉地（的）
+cornerwise        对角地，斜
+endwise          末端朝前地
+coastwise         沿海岸
+lengthwise        纵长地
+sidewise          斜向一边地（的）
+2、也有不与-ways通用者
+clockwise         顺时针方向
+sunwise          顺日转方向
+moneywise       在金钱方面
+dropwise         一滴一滴地
+contrariwise       相反地
+likewise          同样地
+otherwise         要不然，否则
+crabwise         似蟹横行地
+pairwise          成双成对地
+stepwise         逐步的
+-y①[形容词后缀]
+表示多...的、有...的、如...的、属于...的（大多数加在单音节名词之后）
+rainy           下雨的
+windy          有风的
+sunny          阳光充足的
+hilly            多小山的
+rosy            玫瑰色的
+woody          树木茂密的
+snowy          多雪的
+silvery          似银的
+smoky          多烟的
+bloody          血的，流血的
+watery          多水的，如水的
+silky            丝一样的
+wintery         冬天（似）的
+sleepy          想睡的
+earthy          泥土似的
+greeny          略呈绿色的
+trustry          可信赖的
+homey          像家一样的
+inky             有墨迹的
+hairy            多毛的
+icy              似冰的，多冰的
+wordy           多言的
+woolly           多羊毛的
+cloudy           多云的
+[注]在以y或o为结尾的词之后，则作-ey，如skyey天空的，天蓝色的，clayey（多）粘土的，mosquitoey蚊子多的
+②[名词后缀]
+1、构成抽象名词，表示性质、状态、情况、行为
+difficulty         困难
+discovery       发现
+soldiery         军事训练
+inquiry          询问，打听
+burglary         夜盗行为
+bastardy        私生子身份
+mastery         精通，掌握
+beggary         乞丐生涯，行乞
+modesty        谦虚，虚心
+jealousy         妒忌，猜忌
+injury           伤害，损害
+monotony        单音，单调
+2、表示人或物
+lefty            左撇子
+fatty            胖子
+darky           黑人
+oldy            老人
+newsy           报童
+nighty           妇女（或孩子）穿的睡衣
+towny           城里人，镇民
+shorty           矮子
+cabby           出租车驾驶人
+smithy          铁匠，锻工
+sweety          糖果，蜜饯
+parky           公园管理人
+whitey          白人
+3、表示小称及爱称（在一部分词中与-ie通用）
+doggy（=doggie） 小狗
+pitggy（=piggie）  小猪
+kitty              小猫
+missy            小姑娘，小姐
+daddy            爸爸，爹爹
+granny（=grannie）奶奶
+aunty（=auntie）  阿姨
+maidy            小女孩
+-yer[名词后缀]
+表示人
+lawyer           律师，法律家
+sawyer          锯木人，锯工
+bowyer          制弓的人，弓手，射者
