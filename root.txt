@@ -288,7 +288,7 @@ The high cost prohibits the widespread use of the drug. 该药昂贵, 影响广�
 prohibition     [见上，-ion名词后缀]禁止，禁令
 a treaty for the prohibition of nuclear tests 禁止核试验的条约
 prohibitor      [见上，-or表示人]禁止者，阻止者
- 42、hospit
+42、hospit
 hospit=guest客人
 hospital       [hospit客人，-al名词后缀;原义为接待’客人”的地方→接待’病客”的地方]医院
 hospitalize     [见上，-ize动词后缀]把…送入医院治疗
@@ -2107,6 +2107,9 @@ uniformity      [见上，-ity名词后缀，表示情况，性质]一样，一�
 Government inspections ensure a high degree of uniformity in the standard of service.政府检查确保了在服务标准方面的高度一致。
 unanimous     [un单一，一个，anim心神，意志→意见，-ous形容词后缀，…的]意见统一的，无异议的
 The members were unanimous in approving the project. 成员们一致同意批准这个计划。
+115、urb
+urb=city城市
+suburb     郊区，近郊
 suburban       [见上，-an形容词后缀，…的]郊区的;[-an表示人]郊区居民
 They live in suburban Washington. 他们住在华盛顿的郊外。
 suburbanite     [见上，-ite表示人]郊区居民
@@ -2415,7 +2418,6 @@ vivarium     [viv活→活物，生物，动植物，-arium表示场所](造成�
 revivify       [re-再，viv(i)活，-fy动词后缀，使…](使)再生，(使)复活，(使)复苏
 vivisect       [viv(i)活→活体，sect切，割→解剖]解剖(动物活体)，进行动物活体解剖
 vivisection    [见上，-ion名词后缀，表示行为]活体解剖
-（二）多认词根，多识单词
 125、aer(o)空气，空中，航空
 aerial        [aer空气，-ial形容词后缀]空气的，大气的，航空的
 aeriform     [aer空气，-i-，-form如…形状]气状的，气体的
@@ -2675,7 +2677,7 @@ monocracy    [mono-单一，独，cracy统治]独裁政治
 monocrat     [mono-单一，独，crat统治者]独裁统治者，独裁者
 monocratic    [见上，-ic…的]独裁政治的
 polycracy      [poly-多，cracy统治;’多人统治”]多头政治
-114、cub躺，卧
+144、cub躺，卧
 cubicle        [cub卧，-icle名词后缀，表示小;’睡觉”的地方]小卧室，小室
 incubate       [in-加强意义， cub卧，伏，-ate动词后缀;’伏卧在卵上”]孵卵，伏巢，孵化
 incubation     [	见上，-ation名词后缀]孵卵，伏巢，孵化
@@ -3440,6 +3442,15 @@ innocent        [in-不，无，noc伤害，-ent…的;’incapable of doing har
 innocence      [见上-ence名词后缀]无罪，清白，天真，无害
 nocent         [noc伤害，-ent…的]有害的，有毒的，加害的，有罪的
 nocuous       [noc伤害，-uous形容词后缀，…的]有害的，有毒的
+202、noct(i)夜
+night=no light(n象形否定no)
+nocturnal，（noct=night,al是形容词后缀）夜的；夜间发生的；夜间活动的
+nocturnality    夜间活动性
+nocturn 夜祷, 夜礼拜, 夜曲, 夜景画, 梦幻曲=nocturne(常由钢琴演奏的）夜曲, 夜景画
+noctilucent      a      夜间发光的（nocti+luc光+ent→夜晚发光的）
+noctambulate  a      梦游的（moct+ambul走+ate→夜间走路→梦游）
+pernoctation    n     整夜不归（不眠）（per整个+noct+ation→整夜不归等）
+nocturnal a      夜间（活动）的（noct+urnal表形容词，如：diurnal白天的）
 203、norm规范，正规，正常
 normal         [norm正规，-al…的]正规的，正常的
 normality       [见上，-ity名词后缀]正规状态，正常状态
