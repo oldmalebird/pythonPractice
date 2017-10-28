@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 '''伪代码:
 两个字符串数组a,b
 如果以数字为开头,该行为一个字符串
@@ -32,6 +33,7 @@ for line in rootData:
 #f.open('root.txt','r')
 with open('root.txt') as f:
     rootFileLines = f.readlines()
+    #rootFileLines.decode('unicode-escape')
     print('len(rootFileLines)',len(rootFileLines))
     #存储词根所在的行号的列表
     lineNumber = []
@@ -44,9 +46,9 @@ with open('root.txt') as f:
     #print(rootFileLines[4])  可以继续读取
     for i in range(0, len(lineNumber)-1):
         temp = ''
-        #oneReverseLines = lineNumber[i+1]-lineNumber[i]
         for j in range(lineNumber[i]+1,lineNumber[i+1]): # if i = 0: j in (1,25)
             if j < lineNumber[i+1]-1:
+                rootFileLines[j] = rootFileLines[j].rstrip()
                 temp += rootFileLines[j]+'\n'
             else:
                 temp += rootFileLines[j]
@@ -54,7 +56,8 @@ with open('root.txt') as f:
     temp2 = ''
     print("lineNumber[-1]+1:", lineNumber[-1]+1)
     for k in range(lineNumber[-1]+1, len(rootFileLines)):
-        if k< len(rootFileLines)-1:
+        if k < len(rootFileLines)-1:
+            rootFileLines[k] = rootFileLines[k].rstrip()
             temp2 += rootFileLines[k]+'\n'
         else:
             temp2 += rootFileLines[k]
@@ -63,4 +66,5 @@ with open('root.txt') as f:
 rootTable = {'Obverse': rootObverse, 'Reverse':rootReverse, 'tag': rootTag}
 #frame = DataFrame(rootTable)
 frame = DataFrame(rootTable)
-frame.to_csv("testRoot.csv",index=False)
+frame.to_csv("testRoot.csv",index=False,encoding = 'utf-8')
+#print(type(frame.iloc[5,1]))

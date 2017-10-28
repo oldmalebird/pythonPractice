@@ -1,5 +1,5 @@
--ability[名词后缀]
-由-able+-ity而，构成抽象名词，表示“可...性”、“易...性”、“可...”
+Obverse,Reverse,tag
+-ability[名词后缀],"由-able+-ity而，构成抽象名词，表示“可...性”、“易...性”、“可...”
 knowability      可知性
 changeability    可变性
 readability      可读性
@@ -10,8 +10,8 @@ movability      可移动性
 preventability   可防止
 inflammability   易燃性
 adaptability     可适应性
--able[形容词后缀]
-表示“可...的”、“能...的”，或具有某种性质的
+",suffix
+-able[形容词后缀],"表示“可...的”、“能...的”，或具有某种性质的
 knowable       可知的
 changeable     可变的
 readable        可读的
@@ -22,8 +22,10 @@ movable         可移动的
 preventable     可防止的
 inflammable     易燃的
 adaptable       可适应的
--ably[副词后缀]
-由-able转成，表示“可...地”、“...地”
+",suffix
+-ably[副词后缀],"由-able转成，表示“可...地”、“...地”
+
+
 peaceably       和平地
 suitably         合适地
 laughably       可笑地
@@ -34,8 +36,8 @@ movably         可移动地
 lovably         可爱地
 comparably     可比较地
 honourably      光荣地
--aceous[形容词后缀]
-表示有...性质的、属于...的、如...的、具有...的
+",suffix
+-aceous[形容词后缀],"表示有...性质的、属于...的、如...的、具有...的
 rosaceous      玫瑰色的
 curvaceous     （妇女）有曲线美的
 herbaceous     草本的
@@ -44,8 +46,8 @@ olivaceous      （似）橄榄的
 carbonaceous   含碳的
 crustaceous     皮壳的
 orchidaceous    似兰花的
--acious[形容词后缀]
-表示有...性质的、属于...的、如...的、具有...的
+",suffix
+-acious[形容词后缀],"表示有...性质的、属于...的、如...的、具有...的
 rapacious        掠夺的
 vivacious        活泼的，有生气的
 sagacious       聪明的
@@ -55,8 +57,8 @@ loquacious      多言的
 veracious       真实的
 edacious       贪吃的
 audacious       胆大的
--acity[名词后缀]
-构成抽象名词，表示性质、状态、情况、与形容词后缀-acious相对应
+",suffix
+-acity[名词后缀],"构成抽象名词，表示性质、状态、情况、与形容词后缀-acious相对应
 rapacity        掠夺
 vivacity        活泼，有生气
 sagacity        聪明，贤明
@@ -66,8 +68,8 @@ audacity       大胆
 laoqucity       多言，健谈
 edacity        贪吃
 sequacity      盲从
--acle[名词后缀]
-构成实物名词及抽象名词
+",suffix
+-acle[名词后缀],"构成实物名词及抽象名词
 receptacle       容器，花托
 miracle          奇迹
 manacle         手铐
@@ -76,8 +78,8 @@ spiracle          通气孔
 tentacle         触角，触须
 spectacle        景物
 pentacle         五角星形
--acy[名词后缀]
-构成抽象名词、表示性质、状态、行为、职权等
+",suffix
+-acy[名词后缀],"构成抽象名词、表示性质、状态、行为、职权等
 determinacy      确定性
 conspiracy       阴谋、密谋
 supremacy       至高，无上
@@ -86,8 +88,8 @@ literacy          识字
 priavacy         隐居
 intimacy         亲密
 accuracy        精确
--ade[名词后缀]
-1、表示行为、状态、事物
+",suffix
+-ade[名词后缀],"1、表示行为、状态、事物
 blockade        封锁
 cannonade      炮击
 masquerade     化装舞会
@@ -106,8 +108,8 @@ brigade        旅，队
 renegade      叛徒，变节者
 crusade       十字军
 cavalcade      骑兵队
--age[名词后缀]
-1、表示集合名词、总称
+",suffix
+-age[名词后缀],"1、表示集合名词、总称
 wordage       文字，词汇量
 percentage     百分比
 tonnage       吨数，吨位
@@ -177,16 +179,16 @@ carriage      马车，客车厢
 droppage     落下物
 altarage       祭坛的祭品
 appendage    附属物
--ain[名词后缀]
-表示人
+",suffix
+-ain[名词后缀],"表示人
 riverain        住在河边的人
 villain          恶棍，坏人
 captain        船长
 chamberlain    财务管理人
 chieftain       酋长，头子
 chanpain       小教堂的牧师
--aire[名词后缀]
-表示人
+",suffix
+-aire[名词后缀],"表示人
 millionaire      百分富翁
 solitaire        独居者
 billionaire      亿万富翁
@@ -194,8 +196,8 @@ commissionaire  看门人
 occupationaire   军事占领人员
 concessionaire  特许权所有人
 doctrinaire      教条主义者
--al①[形容词后缀]
-表示属于...的、具有...性质的、如...的
+",suffix
+-al①[形容词后缀],"表示属于...的、具有...性质的、如...的
 personal         个人的
 prepositional     介词的
 autumnal         秋天的
@@ -248,8 +250,8 @@ arsenal         武器库
 urinal          尿壶，小便池
 singal          信号
 diagonal        对角线
--ality[名词后缀]
-复合后缀，由-al+-ity而成，构成抽象名词，表示状态、情况、性质、“...性”
+",suffix
+-ality[名词后缀],"复合后缀，由-al+-ity而成，构成抽象名词，表示状态、情况、性质、“...性”
 personaility     个性，人格
 logicality        逻辑性
 nationality       国籍
@@ -260,8 +262,8 @@ conditionality     条件性
 emotionality      富于感情
 commonality     公共，普通
 technicality      技术性
--ally[副词后缀]
-复合合缀，由-al+-ly而成，表示方式、程度、状态、“...地”
+",suffix
+-ally[副词后缀],"复合合缀，由-al+-ly而成，表示方式、程度、状态、“...地”
 dramatically      戏剧性地
 practically        实际上
 exceptionally     例外地
@@ -272,8 +274,8 @@ continually       连续地
 naturally         自然地
 conditionally      有条件地
 aritsitcally        艺术性地
--an①[形容词后缀]
-表示属于...的、属于某地方的。带此后缀的形容词有的兼作名词，表示某地的人
+",suffix
+-an①[形容词后缀],"表示属于...的、属于某地方的。带此后缀的形容词有的兼作名词，表示某地的人
 amphibian        水陆两栖的
 European        欧洲的，欧洲人
 urban            城市的
@@ -292,8 +294,8 @@ Mohammedan   回教徒，伊斯兰教徒
 Puritan         清教徒
 Elizabethan     伊丽莎白女王时代的人
 castellan        城堡主，寨主
--ance[名词后缀]
-构成抽象名词，表示状态、情况、性质、行为、与-ancy同。许多词具有-ance与-ancy两种后缀形式
+",suffix
+-ance[名词后缀],"构成抽象名词，表示状态、情况、性质、行为、与-ancy同。许多词具有-ance与-ancy两种后缀形式
 resistance        抵抗
 attendance        出席，到场
 expectance       期待，期望
@@ -312,8 +314,8 @@ endurance       持久，忍耐
 accordance       一致
 reliance         依赖
 ignorance        无知，愚昧
--ancy[名词后缀]
-构成抽象名词，表示状态、情况、性质、行为、与-ance同。许多词具有-ance与-ancy两种后缀形式
+",suffix
+-ancy[名词后缀],"构成抽象名词，表示状态、情况、性质、行为、与-ance同。许多词具有-ance与-ancy两种后缀形式
 expectancy       期待，期望
 occupancy       占有，占用
 luxuriancy        奢华，华丽
@@ -324,13 +326,13 @@ compliancy       依从，服从
 constancy        经久不变
 militancy         交战，战事
 elegancy         优美，高雅
--aneity[名词后缀]
-构成抽象名词，表示性质、状态、情况，与-aneous相对应
+",suffix
+-aneity[名词后缀],"构成抽象名词，表示性质、状态、情况，与-aneous相对应
 instantaneity     立刻（instantaneous立刻的）
 simultaneity     同时发生（simultaneous同时发生的）
 contemporaneity 同时时代（contemporaneous同时代的）
--aneous[形容词后缀]
-表示有...性质的、属于...的，一部分与-aneity相对应，参见上条
+",suffix
+-aneous[形容词后缀],"表示有...性质的、属于...的，一部分与-aneity相对应，参见上条
 instantaneous    立刻的
 simultaneous     同时发生的
 contemporaneous 同时代的
@@ -340,8 +342,8 @@ subterraneous     地下的
 extemporaneous   临时的，即席的
 miscellaneous     杂项的，各种的
 extraneous        外来的
--ant①[形容词后缀]
-大部分与-ance或-ancy，相对应，表示属于...的、具有...性质的
+",suffix
+-ant①[形容词后缀],"大部分与-ance或-ancy，相对应，表示属于...的、具有...性质的
 expectant         期待的
 vigilant           警惕的
 luxuriant          奢华的
@@ -382,8 +384,8 @@ decolourant      脱色剂
 depressant       抑制剂
 dependant       依附物
 disinfectant      消毒剂
--ar①[形容词后缀]
-表示有...性质的、属于...的、如...的
+",suffix
+-ar①[形容词后缀],"表示有...性质的、属于...的、如...的
 linear           线的，线性的
 peculiar        特有的
 similar          同样的，相似的
@@ -414,8 +416,8 @@ altar            祭坛
 calendar        日历
 grammar        文法，语法
 collar          领子
--ard[名词后缀]
-表示人（大多含有贬义）
+",suffix
+-ard[名词后缀],"表示人（大多含有贬义）
 drunkard         醉鬼，酒徒
 laggard          落后者
 Spaniard         西班牙人
@@ -426,8 +428,8 @@ dotard          年老昏惯的人
 wizard          奇才，男巫
 sluggard        懒汉
 niggard         守财奴
--arian[名词后缀]
-1、表示人
+",suffix
+-arian[名词后缀],"1、表示人
 parliamentarian   国会议员
 attitudinarian     装模作样者
 unitarian         拥护政治统一的人
@@ -443,8 +445,8 @@ equalitarian       平均主义者，平均主义的
 vegetarian        素食者，素食的
 establishmentarian 拥护即成权力机构的（人）
 utilitarian          功利主义者，功利主义的
--arium[名词后缀]
-表示场所、地点、...馆、...室、...院、...所等
+",suffix
+-arium[名词后缀],"表示场所、地点、...馆、...室、...院、...所等
 planetarium       天文馆
 oceanarium      （海洋）水族馆
 atomarium        原子馆
@@ -458,8 +460,8 @@ frigidarium       冷藏室
 solarium         日光浴室
 columbarium     鸽棚
 ovarium         卵巢
--ary①[形容词后缀]
-表示有...性质的，属于...的，关于...的
+",suffix
+-ary①[形容词后缀],"表示有...性质的，属于...的，关于...的
 secondary       第二的
 honorary        荣誉的
 questionary     询问的
@@ -506,22 +508,22 @@ diary          日记本
 anniversary    周年纪念
 piscary       捕鱼权
 vocabulary    词汇
--ast[名词后缀]
-表示人
+",suffix
+-ast[名词后缀],"表示人
 gymnast       体操家
 encomiast     赞美者
 enthusiast     热心者
 symposiast    参加宴会的人
 scholiast      注解者
 ecdysiast      脱衣舞舞女
--aster[名词后缀]
-表示人（卑称）
+",suffix
+-aster[名词后缀],"表示人（卑称）
 poetaster       劣等诗人
 criticaster      低劣的批评家
 medicaster     江湖医生，庸医
 philosophaster  肤浅的哲学家
--ate①[动词后缀]
-表示做、造成、使之成...、做...事等意义
+",suffix
+-ate①[动词后缀],"表示做、造成、使之成...、做...事等意义
 hyphenate      加连字符
 orientate        使向东，定方向
 differentiate     区别
@@ -563,8 +565,8 @@ sulphate       硫酸盐
 acetate        醋酸盐
 nitrate         硝酸盐
 alcoholate      乙醇化物
--atic[形容词后缀]
-表示有...性质的、属于...的，具有...的
+",suffix
+-atic[形容词后缀],"表示有...性质的、属于...的，具有...的
 systematic      有系统的
 idiomatic       惯用语的
 problematic     有问题的
@@ -573,8 +575,8 @@ diagrammatic    图解的
 thematic        题目的，主题的
 lymphatic       淋巴的
 axiomatic       公理的
--ation[名词后缀]
-1、表示行为、情况、状态
+",suffix
+-ation[名词后缀],"1、表示行为、情况、状态
 interpretation    翻译，解释
 excitation       兴奋，激动，刺激，激励
 exploitation     剥削
@@ -604,8 +606,8 @@ determination    决定
 limitation        限制
 occupation       占领，占据
 exclaimation     感叹词
--ative[形容词后缀]
-表示有...性质的、与...有关的、属于...的、有...倾向的、有...作用的（带此后缀的词有的可兼作名词）
+",suffix
+-ative[形容词后缀],"表示有...性质的、与...有关的、属于...的、有...倾向的、有...作用的（带此后缀的词有的可兼作名词）
 talkative          好说话的
 determinative     有决定作用的
 quotative         引用的
@@ -622,8 +624,8 @@ formative         形成的
 fixative           固定的，固着剂
 comparative      比较的
 affirmative        肯定的
--ator[名词后缀]
-表示做...工作的人或物
+",suffix
+-ator[名词后缀],"表示做...工作的人或物
 designator        指定者
 comparator       比较器
 conservator      保护者
@@ -636,8 +638,8 @@ valuator         评价者
 commentator     评论者
 excavator        挖掘者
 illuminator        照明器
--atory①[形容词后缀]
-表示有...性质的、属于...的、具有...的（带有此后缀的形容词有的可兼作名词）
+",suffix
+-atory①[形容词后缀],"表示有...性质的、属于...的、具有...的（带有此后缀的形容词有的可兼作名词）
 condemnatory    谴责的
 invitatory         邀请的
 excitatory        显示兴奋的
@@ -659,16 +661,16 @@ observatory     天文台
 laboratory       实验室
 conservatory    暖房，温室
 lavatory         盥洗室，厕所
--ce[副词后缀]
-表示“...次”、“自...”、“从...”
+",suffix
+-ce[副词后缀],"表示“...次”、“自...”、“从...”
 once           一次
 hence         因此，从今以后
 twice          二次
 thence        自那里，从那时起
 thrice         三次
 whence       从何处，由此
--cy[名词后缀]
-表示性质、状态、职权、官衔
+",suffix
+-cy[名词后缀],"表示性质、状态、职权、官衔
 normalcy       正常状态
 generalcy      将军职权、任期
 vacancy       空白，空虚
@@ -679,8 +681,8 @@ bankruptcy     破产
 ensigncy       海军小尉衔
 infancy        幼年期
 idiocy         白痴，呆痴
--dom[名词后缀]
-1、表示情况、状态、性质、身份
+",suffix
+-dom[名词后缀],"1、表示情况、状态、性质、身份
 freedom       自由
 chiefdom      首领身份，地位
 widom         智慧
@@ -701,8 +703,8 @@ newspaperdom 报界
 devildom      魔界
 officialdom     官场，政界
 scoundreldom  无赖汉总称
--ed[形容词后缀]
-1、加在名词之后，表示“有...的”、“如...的”、“...的”
+",suffix
+-ed[形容词后缀],"1、加在名词之后，表示“有...的”、“如...的”、“...的”
 coloured       有色的
 booted         穿靴的
 moneyed       有钱的
@@ -738,8 +740,8 @@ closed         关闭了的
 oiled           上了油的
 finished         完成了的
 wounded       受了伤的
--ee[名词后缀]
-1、表示人
+",suffix
+-ee[名词后缀],"1、表示人
 （a）被动者
 employee       被雇者，雇员，雇工
 trainee          受训练的人
@@ -780,8 +782,8 @@ settee         有靠背的椅子
 vestee         背心形的衣服
 bootee         轻便短统女靴
 goatee         山羊胡子
--eer[名词后缀]
-表示人（专做某种工作或从事某种职业的人）
+",suffix
+-eer[名词后缀],"表示人（专做某种工作或从事某种职业的人）
 weaponeer      武器专家
 rocketeer       火箭专家
 fictioneer       小说作家
@@ -803,8 +805,8 @@ auctioneer      拍卖
 mountaineer    登山
 commandeer   征用，强征
 domineer      飞扬跋扈
--el[名词后缀]
-1、表示小
+",suffix
+-el[名词后缀],"1、表示小
 model         模型（比原物小）
 parcel        小包裹
 runnel        小河，小溪
@@ -832,8 +834,8 @@ tunnel       隧道，坑道
 channel     航道，海峡
 chancel      圣坛
 charnel      尸骨存放所
--en①[动词后缀]
-表示做、使成为...、使变成...
+",suffix
+-en①[动词后缀],"表示做、使成为...、使变成...
 shorten       使缩短
 gladden       使快活
 harden        使变硬
@@ -876,8 +878,8 @@ denizen        居民
 maiden         少女
 chicken         小鸡
 kitten           小猫
--ence[名词后缀]
-与形容词后缀-ent相对应（如difference与different），构成抽象名词，表示性质、状态、行为、义同-ency，有此词具有-ence和-ency两种后缀形式（如innocence=innocency）
+",suffix
+-ence[名词后缀],"与形容词后缀-ent相对应（如difference与different），构成抽象名词，表示性质、状态、行为、义同-ency，有此词具有-ence和-ency两种后缀形式（如innocence=innocency）
 existence        存在，生存
 insistence       坚持
 dependence     依赖
@@ -891,8 +893,8 @@ excellence      杰出，优秀
 occurrence      发生，出现
 convergence    会聚，集中
 coherence       粘着
--ency[名词后缀]
-与形容词后缀-ent相对应（如urgency与urgent），构成抽象名词，表示性质、状态、
+",suffix
+-ency[名词后缀],"与形容词后缀-ent相对应（如urgency与urgent），构成抽象名词，表示性质、状态、
 行为、义同-ence。有些词具有-ency与-ence两种后缀形式（如persistency=persistence）
 urgency         紧急
 insistency       坚持
@@ -904,8 +906,8 @@ insolvency       无偿还能力
 convergency     会聚，集中
 despondency     沮丧，泄气
 tendency         趋向，倾向
--end[名词后缀]
-构成抽象名词，大多见于数学术语，亦作-and
+",suffix
+-end[名词后缀],"构成抽象名词，大多见于数学术语，亦作-and
 dividend        被除数
 multiplicand     被乘数
 addend        加数
@@ -913,13 +915,13 @@ subtrahend     减数
 minuend        被减数
 legend        传奇，传说
 errand         使命
--enne[名词后缀]
-表示女性
+",suffix
+-enne[名词后缀],"表示女性
 comedienne     女喜剧演员
 tragedienne     女悲剧演员
 equestrienne    女骑手，女马术师
--ent①[形容词后缀]
-与名词后缀-ence或-ency相对应，表示具有...性质的，关于...的
+",suffix
+-ent①[形容词后缀],"与名词后缀-ence或-ency相对应，表示具有...性质的，关于...的
 existent         存在的，现存的
 insistent        坚持的
 emergent       紧急的
@@ -945,8 +947,8 @@ solvent          溶液
 absorbent       吸收剂
 abluent          洗净剂
 corrigent        矫正药
--eous[形容词后缀]
-表示有...性质的，关于...的，如...的，具有...的，与-ous同
+",suffix
+-eous[形容词后缀],"表示有...性质的，关于...的，如...的，具有...的，与-ous同
 righteous        正直的
 beauteous       美丽的
 gaseous         气体的，气态的
@@ -955,8 +957,8 @@ duteous         忠实的
 courteous       有礼貌的
 erroneous       错误的
 aqueous         水的，水成的
--er①[名词后缀]
-1、表示人
+",suffix
+-er①[名词后缀],"1、表示人
 （a）行为的主动者，做某事的人
 singer           歌唱家
 dancer          跳舞者
@@ -1024,8 +1026,8 @@ happier         更快乐
 faster           更快
 earlier          更早
 harder          更努力
--ern①[形容词后缀]
-加在方位词上表示“...方向的”
+",suffix
+-ern①[形容词后缀],"加在方位词上表示“...方向的”
 eastern         东方的
 western         西方的
 northeastern    东北的
@@ -1038,8 +1040,8 @@ saltern         盐场
 cavern         洞穴
 lectern        （教堂中）读经台
 cistern        蓄水池，水塘
--ery[名词后缀]
-1、表示场所、地点、工作处
+",suffix
+-ery[名词后缀],"1、表示场所、地点、工作处
 printery        印刷所
 nursery        托儿所
 brewery       酿造厂
@@ -1070,8 +1072,8 @@ cookery        烹调法
 housewifery    家务，家政
 missilery       导弹技术
 slavery         奴隶身份
--esce[动词后缀]
-表示动作开始或正在进行。它的对应名词后缀为-escence或-escency，它的对应形容词后缀为-escent
+",suffix
+-esce[动词后缀],"表示动作开始或正在进行。它的对应名词后缀为-escence或-escency，它的对应形容词后缀为-escent
 evanesce       渐渐消失
 effloresce       开花
 senesce        开始衰老
@@ -1082,8 +1084,8 @@ convaleace     渐愈，恢复健康
 rejuvenesce    （使）返老还童
 obsolesce      废除不用
 incandesce     （使）白热化，炽热化
--escence[名词后缀]
-构成抽象名词，表示开始，正在，逐渐形成某种状态、情况或性质，略...，似...，它的对应形容词后缀为-escent，亦作-escency。有些词具有-escence和-escency两种后缀形式
+",suffix
+-escence[名词后缀],"构成抽象名词，表示开始，正在，逐渐形成某种状态、情况或性质，略...，似...，它的对应形容词后缀为-escent，亦作-escency。有些词具有-escence和-escency两种后缀形式
 coalescence     联合，结合
 senescence     衰老
 juvenescence   变年轻
@@ -1092,8 +1094,8 @@ efflorescence    开花期，花开
 evanescence    渐渐消失
 deliquescence   潮解，液化
 rejuvenescence  返老还童
--escent[形容词后缀]
-表示开始、正在、逐渐成为某种状态的，似...的、略...的
+",suffix
+-escent[形容词后缀],"表示开始、正在、逐渐成为某种状态的，似...的、略...的
 efflorescent     正在开花的
 evanescent     渐渐消失的
 rejuvenesecent  返老还童的
@@ -1104,8 +1106,8 @@ convalescent   逐渐痊愈的
 incandescent   白炽的
 juvenescent    逐渐成为青年的
 ingravescent   （病等）越来越重的
--ese①[形容词兼名词后缀]
-表示某国的、某地的；某国或某地的人及语言
+",suffix
+-ese①[形容词兼名词后缀],"表示某国的、某地的；某国或某地的人及语言
 Chinese        中国的（人），汉语
 Japanese       日本的（人），日语
 Vietnamese     越南的（人、语）
@@ -1131,8 +1133,8 @@ educationese     教育界术语
 televisionese     电视术语
 bureaucratese    官腔
 legalese         法律术语
--esque[形容词后缀]
-表示如...的、...式的、派的、...风的
+",suffix
+-esque[形容词后缀],"表示如...的、...式的、派的、...风的
 picturesque       如画的
 arabesque        阿拉伯式的
 gigantesque      如巨人的
@@ -1145,8 +1147,8 @@ Disneyesque     迪斯尼式的
 Romanesque     罗马式的
 Dantesque       但丁派的
 Zolaesque        左拉风格的
--ess[名词后缀]
-表示女性（人）或雌性（动物）
+",suffix
+-ess[名词后缀],"表示女性（人）或雌性（动物）
 citizeness        女公民
 manageress      女经理
 poetess          女诗人
@@ -1167,16 +1169,16 @@ giantess         女巨人
 astronautess     女太空人
 heiress          女继承人
 patroness        女保护人
--est[形容词及副词后缀]
-表示最高级“最...”
+",suffix
+-est[形容词及副词后缀],"表示最高级“最...”
 smallest          最小
 largest           最大
 happiest         最快乐
 earliest           最早
 fastest           最快
 hardest          最努力
--et[名词后缀]
-表示小
+",suffix
+-et[名词后缀],"表示小
 floweret          小花
 lioner            小狮，幼狮
 dragonet         小龙
@@ -1190,14 +1192,14 @@ medalet           小奖章
 packet            小包，小捆
 owlet             小猫头鹰
 islet              小岛
--eth[形容词兼名词后缀]
-表示（a）第...十（b）...十分之一
+",suffix
+-eth[形容词兼名词后缀],"表示（a）第...十（b）...十分之一
 thirtieth            第三十，三十分之一
 fortieth            第四十；四十分之一
 fiftieth             第五十；五十分之一
 sixtieth            第六十；六十分之一
--etic[形容词后缀]
-表示属于...的、有...性质的、关于...的
+",suffix
+-etic[形容词后缀],"表示属于...的、有...性质的、关于...的
 theoretic          理论上的
 energetic         精力旺盛的
 sympathetic       同情的
@@ -1208,8 +1210,8 @@ apologetic        道歉的，辩解的
 zoetic            生命的，有生气的
 dietetic           饮食的，营养的
 diuretic           尿的，利尿的
--ette[名词后缀]
-1、表示小
+",suffix
+-ette[名词后缀],"1、表示小
 roomette          小房间
 kitchenette        小厨房
 tankette          小坦克
@@ -1239,16 +1241,16 @@ flannelette         棉法兰绒
 4、其他
 serviette           餐巾
 launderette         自动洗衣店
--ety[名词后缀]
-构成抽象名词，表示性质、状态、情况
+",suffix
+-ety[名词后缀],"构成抽象名词，表示性质、状态、情况
 gayety            快乐
 vanety            变化
 anxiety           悬念
 notoriety          臭名昭著
 satiety           饱足，厌腻
 propriety         适当，适合
--eur[名词后缀]
-来自法语，表示人
+",suffix
+-eur[名词后缀],"来自法语，表示人
 amateur          业余爱好者
 petroleur         用石油放火者
 saboteur         怠工者
@@ -1258,8 +1260,8 @@ litterateur        文人，文学家
 farceur          滑稽演员
 claqueur         喝采者
 voyageur         旅行者
--faction[名词后缀]
-构成抽象名词，表示情况、状态、行为或行为的结果，与动词后缀-fy相对应
+",suffix
+-faction[名词后缀],"构成抽象名词，表示情况、状态、行为或行为的结果，与动词后缀-fy相对应
 satisfaction       满足
 rarefaction       稀少，稀薄
 calefaction       发暖作用
@@ -1268,8 +1270,8 @@ liquefaction       液化（作用）
 stupefaction      麻木状态
 vitrifaction        成玻璃状
 tepefaction       微温，湿热
--fic[形容词后缀]
-表示“致...的”、“令...的”、“产生...的”、或表示具有某种性质的（亦作-ific）
+",suffix
+-fic[形容词后缀],"表示“致...的”、“令...的”、“产生...的”、或表示具有某种性质的（亦作-ific）
 colorific           产生颜色的
 honrific           尊敬的
 scientific          科学的
@@ -1281,8 +1283,8 @@ horrific           可怕的
 acidific           化为酸性的
 calorific           生热的
 malefic           邪恶的，有害的
--fication[名词后缀]
-构成抽象名词，表示“...化”、“做...”、“使成为...”等意义，与动词后缀-fy相对应
+",suffix
+-fication[名词后缀],"构成抽象名词，表示“...化”、“做...”、“使成为...”等意义，与动词后缀-fy相对应
 beautification     美化
 uglification       丑化
 electrification     电气化
@@ -1301,8 +1303,8 @@ purification      清洗，净化
 fortification      筑城，设防
 solidification     凝固，团结
 Frenchification   法国化
--fier[名词后缀]
-由-fy+-er而成，表示“做...的人或物”、“使成...的人或物”
+",suffix
+-fier[名词后缀],"由-fy+-er而成，表示“做...的人或物”、“使成...的人或物”
 beautifier        美化者
 glorifier         赞美者，颂扬者
 pacifier         平定者
@@ -1314,8 +1316,8 @@ intensifier       增强器（剂）
 certifier         证明者
 simplifier        简化物
 rectifier         改正者，整流器
--fold[形容词及副词后缀]
-表示...倍、...重
+",suffix
+-fold[形容词及副词后缀],"表示...倍、...重
 twofold          两倍，两重
 threefole        三倍，三重
 fourfold         四倍，四重
@@ -1324,16 +1326,16 @@ tenfold          十倍，十重
 hundredfold     百倍，百重
 thousandfold    千倍，千重
 manyfold        许多倍地
--form[形容词后缀]
-表示有...形状的、似...形状的
+",suffix
+-form[形容词后缀],"表示有...形状的、似...形状的
 gasiform         气态的
 cruciform        十字形的
 cubiform        立方体形的
 dentiform        牙齿形的
 uniform         形状一样的
 asbestiform      石棉状的
--ful①[名词后缀]
-加在名词之后，表示充满时的量
+",suffix
+-ful①[名词后缀],"加在名词之后，表示充满时的量
 handful         一把，一把的量
 spoonful       一匙的量
 houseful       满屋，一屋子
@@ -1364,8 +1366,8 @@ skillful          熟练的
 doubtful        可疑的
 careful         小心的
 cheerful        快乐的
--fy[动词后缀]
-表示“...化”、“使成为...”、“变成...”、“做...”。它的对应名词后缀为-faciton或-fication
+",suffix
+-fy[动词后缀],"表示“...化”、“使成为...”、“变成...”、“做...”。它的对应名词后缀为-faciton或-fication
 simplify         使简化
 beautify         美化
 uglify           丑化
@@ -1380,8 +1382,8 @@ glorify         颂扬，夸赞
 electrify        电气化
 gasify         （使）气化
 purify          使洁净，净化
--hood[名词后缀]
-构成抽象名词，表示时期，情况，状态，性质，身份，资格等
+",suffix
+-hood[名词后缀],"构成抽象名词，表示时期，情况，状态，性质，身份，资格等
 childhood      童年
 boyhood       少年时代
 girlhood       少女时期
@@ -1396,8 +1398,8 @@ motherhood     母性，母亲身份
 fatherhood       父性，父亲身份
 doghood        狗性
 sisterhood      姐妹关系
--i[形容词兼名词后缀]
-表示属于某国的或某地区的，兼表某国的或某地区性的人或语言
+",suffix
+-i[形容词兼名词后缀],"表示属于某国的或某地区的，兼表某国的或某地区性的人或语言
 Israeli           以色列的（人）
 Iraqi            伊拉克的（人）
 Yemeni         也门的（人）
@@ -1405,8 +1407,8 @@ Zanzibare       桑给巴尔的（人）
 Hindustani      印度斯坦的（人、语）
 Pakistani        巴基斯坦的（人）
 Punjabi         旁遮普的（人、语）
--ia[名词后缀]
-表示情况、状态、总称及其他
+",suffix
+-ia[名词后缀],"表示情况、状态、总称及其他
 differentia       差异
 intelligentsia     知识界，知识分子（总称）
 suburbia        郊区居民（总称）
@@ -1418,8 +1420,8 @@ utopia          乌托邦
 adynamia       无力，衰弱，体力缺乏
 ataxia          混乱，无秩序
 regalia          王权，王位
--ial[形容词后缀]
-表示属于...的、具有...的、有...性质的
+",suffix
+-ial[形容词后缀],"表示属于...的、具有...的、有...性质的
 presidential       总统的
 managerial       经理的
 editorial          编辑的
@@ -1444,8 +1446,8 @@ residence→residential     居住的，住宅的
 existence→existential     关于存在的
 substance→substantial    物质的
 confidence→confidential   极受信任的
--ian①[形容词后缀]
-表示属于某国的、某地的，某人的或某宗教的（可兼表示人或语言）
+",suffix
+-ian①[形容词后缀],"表示属于某国的、某地的，某人的或某宗教的（可兼表示人或语言）
 Egyptian        埃及的（人、语）
 Mongolian      蒙古的（人、语）
 Arabian         阿拉伯的（人）
@@ -1469,8 +1471,8 @@ collegian       高等学校学生
 comedian       喜剧演员
 tragedian       悲剧演员
 lilliputian       矮子
--ibility[名词后缀]
-由ible+ity而成，构成抽象名词，表示“可...性”、“易...性”、“...性”、“可...”
+",suffix
+-ibility[名词后缀],"由ible+ity而成，构成抽象名词，表示“可...性”、“易...性”、“...性”、“可...”
 sensibility      敏感性
 receptibility     可接受性
 resistibility      抵抗得住
@@ -1483,8 +1485,8 @@ extensibility      可伸展性
 perfectibility     可完成
 digestibility      可消化性
 accessibility     易接近性
--ible[形容词后缀]
-表示“可...的”、“能，，，”、“易...的”或具有某种性质的
+",suffix
+-ible[形容词后缀],"表示“可...的”、“能，，，”、“易...的”或具有某种性质的
 sensible        可感觉的
 recptible        可接受的
 resistible        可抵抗的
@@ -1497,8 +1499,8 @@ extensible      可伸展的
 perfectible      可完成的
 digestible       可消化的
 accessible      可接近的
--ibly[副词后缀]
-由形容词后缀-ible转成，表示“可...地”、“...地”
+",suffix
+-ibly[副词后缀],"由形容词后缀-ible转成，表示“可...地”、“...地”
 sensibly        可感觉地
 receptibly      可接受地
 resistibly       可抵抗地
@@ -1510,8 +1512,8 @@ producibly      可伸展地
 extensibly       可完成地
 digestibly       可消化地
 accessibly       易接近地
--ic①[形容词后缀]
-表示“...的”
+",suffix
+-ic①[形容词后缀],"表示“...的”
 atomic         原子的
 electronic      电子的
 historic        有历史意义的
@@ -1549,8 +1551,8 @@ topic          题目，论题
 music         音乐
 Arabic        阿拉伯语
 epidemic      流行病
--ical[形容词后缀]
-由-ic+-al而成，表示“...的”
+",suffix
+-ical[形容词后缀],"由-ic+-al而成，表示“...的”
 atomical       原子的
 typical         典型的
 organical      器官的
@@ -1561,8 +1563,8 @@ symbolical     象征（性）的
 geometrical    几何学的
 cyclical        循环的
 poetical        诗的
--ice[名词后缀]
-1、构成抽象名词，表示行为、情况、性质
+",suffix
+-ice[名词后缀],"1、构成抽象名词，表示行为、情况、性质
 service         服务
 justice          正义
 cowardice      胆怯
@@ -1574,8 +1576,8 @@ caprice         反复无常
 2、表示人
 novice         初学者，新手
 apprentice      学徒
--ician[名词后缀]
-表示精于某种学术的人、专家、能手或从事某种职业的人
+",suffix
+-ician[名词后缀],"表示精于某种学术的人、专家、能手或从事某种职业的人
 musician        音乐家
 mathematician   数学家
 physician       内科医生
@@ -1588,8 +1590,8 @@ magician       魔术师
 phonetician    语音学家
 geometrician    几何学家
 politician       政客，政治家
--icity[名词后缀]
-大多数由-ic+-ity而成，构成抽象名词，表示性质、情况、状态
+",suffix
+-icity[名词后缀],"大多数由-ic+-ity而成，构成抽象名词，表示性质、情况、状态
 simplicity       简单，简明
 periodicity      周期性
 historicity      历史性
@@ -1600,8 +1602,8 @@ sphericity      球状
 atomicity      原子价，原子数
 plasticity       可塑性
 elasticity       弹性，弹力
--ics[名词后缀]
-表示“...。学”、“...术”
+",suffix
+-ics[名词后缀],"表示“...。学”、“...术”
 informatics      信息学
 electronics      电子学
 mechanics      机械学
@@ -1615,8 +1617,8 @@ acrobatics      杂技
 magnetics      磁学
 astronautics     太空学
 pedagogics     教育学
--id[形容词后缀]
-表示具有...性质的、如...的、含有...的
+",suffix
+-id[形容词后缀],"表示具有...性质的、如...的、含有...的
 florid           如花的
 splendid        逃煌的，华丽的
 fervid           热烈的
@@ -1627,8 +1629,8 @@ liquid           液体的，流动的
 vivid           活泼的
 timid            胆小的
 placid           恬静的
--ie[名词后缀]
-1、表示小称及爱称
+",suffix
+-ie[名词后缀],"1、表示小称及爱称
 bridie          小鸟
 doggie         小狗
 piggie         小猪
@@ -1644,8 +1646,8 @@ movie          电影
 talkie           有声电影
 nudie          裸体电影
 sweetie        糖果
--ier[名词后缀]
-1、表示人（专做某种工作或从事某种职业的人）
+",suffix
+-ier[名词后缀],"1、表示人（专做某种工作或从事某种职业的人）
 cashier         出纳员
 clothier         织布工人，布商
 financier        财政家
@@ -1663,8 +1665,8 @@ barrier          障碍物，栅栏
 frontier         边疆，边境
 glacier          冰河，冰川
 gaselier         煤气吊灯
--ile①[形容词后缀]
-表示属于...的、有...性质的、易于...的，可...的
+",suffix
+-ile①[形容词后缀],"表示属于...的、有...性质的、易于...的，可...的
 merchantile       商人的，商业的
 infantile          幼小的
 insectile          昆虫的
@@ -1687,8 +1689,8 @@ projectile          抛射体，射弹
 textile            纺织品
 automobile        汽车
 domicile          住宅，住处
--ility[名词后缀]
-由-il(e)+-ity而成，表示性质、状态、情况
+",suffix
+-ility[名词后缀],"由-il(e)+-ity而成，表示性质、状态、情况
 servility          奴性，卑屈
 fertility           肥沃
 juvenility         年少
@@ -1699,8 +1701,8 @@ fragility          易碎，脆性
 mobility          易动性，可动性
 sectility          可切性，可分性
 ductility          延展性
--ine①[形容词后缀]
-表示属于...的、具有...的、如...的、有...性质的
+",suffix
+-ine①[形容词后缀],"表示属于...的、具有...的、如...的、有...性质的
 elephantine      如象的
 crystalline        结晶体的
 infantine         幼儿（期）的
@@ -1734,8 +1736,8 @@ iodine           碘
 vaseline         凡士林
 antifebrine       退烧药
 chlorine         氯
--ing①[名词后缀]
-1、构成抽象名词，表示行为、状态、情况及其他
+",suffix
+-ing①[名词后缀],"1、构成抽象名词，表示行为、状态、情况及其他
 learning         学问，学识
 feeling          感觉
 shopping        买东西
@@ -1797,8 +1799,8 @@ concerning      关于
 failing           如果没有
 during           在...期间
 considering      考虑到，就...而论
--ion[名词后缀]
-1、构成抽象名词，表示行为、行为的过程或结果、情况、状态
+",suffix
+-ion[名词后缀],"1、构成抽象名词，表示行为、行为的过程或结果、情况、状态
 discussion       讨论
 inflation         通货膨胀
 action           活动，作用，行为
@@ -1820,8 +1822,8 @@ medallion         大奖章
 accordion         手风琴
 falchion          弯形大刀
 cushion           坐垫，靠垫
--ior①[名词后缀]
-表示人
+",suffix
+-ior①[名词后缀],"表示人
 warrior           勇士，战士
 superior         上司，上级
 inferior          低下的人，下级
@@ -1836,8 +1838,8 @@ exterior           外部的
 interior            内部的
 superior           优越的
 inferior            次的，下等的
--ious[形容词后缀]
-表示属于...的、有...性质的、...的，同-ous
+",suffix
+-ious[形容词后缀],"表示属于...的、有...性质的、...的，同-ous
 contradictious       相矛盾的
 malicious           恶意的
 laborious           勤劳的
@@ -1848,8 +1850,8 @@ burglarious          夜盗的
 anxious             焦急的
 contagious          传染的
 specious            外观美丽的
--ise[动词后缀]
-同-ize，许多词具有-ise与-ize两种后缀形式
+",suffix
+-ise[动词后缀],"同-ize，许多词具有-ise与-ize两种后缀形式
 momorise=memorize
 advertise=advertize
 diplomatise=diplomatize
@@ -1858,8 +1860,8 @@ criticise=criticize
 civilize=civilize
 fertilise=fertilize
 humanize=humanize
--ish①[形容词后缀]
-1、加在名词之后，表示如...的、似...的、有...性质的
+",suffix
+-ish①[形容词后缀],"1、加在名词之后，表示如...的、似...的、有...性质的
 childish          如小孩的
 girlish           如小女的
 womanish        女子气的
@@ -1905,8 +1907,8 @@ diminish          使缩小，变小
 vanish           消逝
 publish          公布
 finish            结束
--ism[名词后缀]
-1、表示“...主义”
+",suffix
+-ism[名词后缀],"1、表示“...主义”
 materialism      唯物主义
 idealism         唯心主义
 imperialism      帝国主义
@@ -2026,8 +2028,8 @@ organism        有机体
 mechanism       机械装置
 journalism        新闻业
 progressivism     进步人士的政见
--ist①[名词后缀]
-1、表示某种主义或某种信仰者
+",suffix
+-ist①[名词后缀],"1、表示某种主义或某种信仰者
 communist        共产主义者
 socialist          社会主义者
 nationalist         民族主义者
@@ -2059,13 +2061,13 @@ Marxist          马克思主义的
 materialist        唯物主义的
 nationalist        民族主义的
 capitalist         资本主义的
--ister[名词后缀]
-表示人
+",suffix
+-ister[名词后缀],"表示人
 palmister         看手相者
 chorister         合唱者
 sophister        诡辩家
--istic[形容词后缀]
-复合后缀，由-ist+-ic而成，表示关于...的、属于...的、有...性质的、...主义的、...论的（参见-istical）
+",suffix
+-istic[形容词后缀],"复合后缀，由-ist+-ic而成，表示关于...的、属于...的、有...性质的、...主义的、...论的（参见-istical）
 colouristic       色彩的
 simplistic        过分简单化的
 humoristic       幽默的
@@ -2078,8 +2080,8 @@ realistic          现实主义的
 antagonistic      敌对的
 characteristic     表示特性的
 novelistic         小说的
--istical[形容词后缀]
-复合后缀，由-ist+-ie+-al而成，表示“...的”。有些词兼有-istic和-istical两种后缀形式
+",suffix
+-istical[形容词后缀],"复合后缀，由-ist+-ie+-al而成，表示“...的”。有些词兼有-istic和-istical两种后缀形式
 artistical         艺术的
 atomistical       原子论的
 idealistical       唯心论的
@@ -2088,8 +2090,8 @@ antagonistical    敌对的
 Buddbistical     佛教的
 egoistical        利已主义的
 linguistical       语言学的
--it[名词后缀]
-1、表示人
+",suffix
+-it[名词后缀],"1、表示人
 bandit           匪徒
 hermit           隐士
 Jesuit           耶稣会会员
@@ -2102,8 +2104,8 @@ pursuit          追赶，追求
 plaudit           喝采，赞扬
 deficit            亏空，赤字
 orbit             轨道
--ite①[名词后缀]
-表示人
+",suffix
+-ite①[名词后缀],"表示人
 suburbanite      郊区居民
 socialite         社会名流，名人
 Tokyoite         东京市民
@@ -2130,8 +2132,8 @@ erudite           博学的
 unite             联合，统一
 expedite          加快，促进
 ignite             点燃，点火
--ition[名词后缀]
-1、表示行为、行为的过程或结果、由行为而产生的事物
+",suffix
+-ition[名词后缀],"1、表示行为、行为的过程或结果、由行为而产生的事物
 supposition       想象，推测
 proposition       提议
 oppsition         反对，反抗
@@ -2149,8 +2151,8 @@ inanition           空虚
 dentition          出牙
 deglutition         吞咽困难
 perdition          毁灭，沉沦
--itious[形容词后缀]
-表示有...性质的，属于...的、具有...的，意义与-ous同
+",suffix
+-itious[形容词后缀],"表示有...性质的，属于...的、具有...的，意义与-ous同
 suppositious       想象的，假定的
 cementitious       水泥的
 adventitious        外来的，偶然的
@@ -2158,8 +2160,8 @@ factitious          人为的
 expeditious        急速的
 nutritious          有营养的
 fictitious           虚构的
--itive[形容词后缀]
-表示“...的”，意义同-ive
+",suffix
+-itive[形容词后缀],"表示“...的”，意义同-ive
 compositive        合成的，组成的
 suppositive         想象的，假定的
 additive            添加的
@@ -2169,16 +2171,16 @@ partitive            区分的，分隔的
 punitive            惩罚性的
 definitive           决定的，确定的
 primitive            原始的，简单的
--itor[名词后缀]
-表示人
+",suffix
+-itor[名词后缀],"表示人
 servitor            侍从，男仆
 compositor         排字工人
 progenitor          祖先
 janitor              看门人
 competitor          比赛者，竞争者
 expositor           讲解者，说明者
--itude[名词后缀]
-构成抽象名词，表示情况、性质、状态、事物
+",suffix
+-itude[名词后缀],"构成抽象名词，表示情况、性质、状态、事物
 correctitude         端正
 exactitude          正确（性）
 promptitude         敏捷，迅速
@@ -2191,8 +2193,8 @@ similitude          相似，类似
 longitude           经度
 latitude            纬度
 gratitude           感激，感谢
--ity[名词后缀]
-构成抽象名词，表示性质、情况、状态及其他，与-ty同
+",suffix
+-ity[名词后缀],"构成抽象名词，表示性质、情况、状态及其他，与-ty同
 speciality          特性，特长
 humanity          人性，人类
 equality           平等，均等
@@ -2209,8 +2211,8 @@ generality         一般（性）
 extremity         极端，极度
 fixity             固定性
 immensity        广大，巨大，无限
--ive①[形容词后缀]
-表示有...性质的、有...作用的、有...倾向的、属于...的
+",suffix
+-ive①[形容词后缀],"表示有...性质的、有...作用的、有...倾向的、属于...的
 educative         有教育作用的
 protective         保护的，防护的
 impressive         印象深刻的
@@ -2248,8 +2250,8 @@ subjunctive        虚拟语气
 initiative           主动
 perspective        透视，眼力
 alternative          取舍，抉择
--ivity[名词后缀]
-复合后缀，由-iv(e)+-ity而成，构成抽象名词，表示情况、状态、“...性”、“...力”
+",suffix
+-ivity[名词后缀],"复合后缀，由-iv(e)+-ity而成，构成抽象名词，表示情况、状态、“...性”、“...力”
 productivity         生产能力，生产率
 resitivity            抵抗力，抵抗性
 activity             活动性，活动
@@ -2260,8 +2262,8 @@ collectivity           集体（性）
 relativity            相关性
 expressivity         善于表达
 captivity            被俘
--ization[名词后缀]
-复合后缀，由-iz(e)+-ation而成，表示行为的过程或结果，“...化”，与动词后缀-ize相对应
+",suffix
+-ization[名词后缀],"复合后缀，由-iz(e)+-ation而成，表示行为的过程或结果，“...化”，与动词后缀-ize相对应
 modernization        现代化
 industrialization       工业化
 mechanization       机械化
@@ -2272,8 +2274,8 @@ economization       节约，节省
 centralization         集中
 popularization        普及，推广
 organization         组织，团体
--ize[动词后缀]
-表示“...化”、照...样子做、按...方式处理，变成...状态，使成为...，与名词后缀-ization相对应
+",suffix
+-ize[动词后缀],"表示“...化”、照...样子做、按...方式处理，变成...状态，使成为...，与名词后缀-ization相对应
 modernize         （使）现代化
 industrialize        （使）工业化
 mechanize         （使）机械化
@@ -2284,8 +2286,8 @@ economize          节约，节省
 centralize          （使）集中
 popularize          使普通，推广
 revolutionize       （使）革命化
--kin[名词后缀]
-表示小
+",suffix
+-kin[名词后缀],"表示小
 ladykin             小妇人
 lambkin            羔羊
 princekin           小君主，幼君
@@ -2294,8 +2296,8 @@ manikin             矮子，侏儒
 devilikin            小魔鬼
 cannikin            小罐
 napkin              揩嘴布，餐布
--le①[动词后缀]
-1、表示反复、连续及拟声动作
+",suffix
+-le①[动词后缀],"1、表示反复、连续及拟声动作
 winkle            闪烁，闪耀
 twinkle           闪烁，闪耀
 wriggle           蠕动，扭动
@@ -2317,8 +2319,8 @@ stopple          塞子
 spindle          纺纱锭子（spin纺）
 handle          柄，把手
 girdle           带，腰带
--less[形容词后缀]
-表示“无...的”、“不...的”
+",suffix
+-less[形容词后缀],"表示“无...的”、“不...的”
 homeless        无家可归的
 useless          无用的
 hopeless        无希望的
@@ -2335,8 +2337,8 @@ fruitless          不结果实的
 regardless       不注意的
 restless          不休息的
 changeless       不变的
--let[名词后缀]
-表示小
+",suffix
+-let[名词后缀],"表示小
 booklet           小册子
 houselet          小房子
 starlet            小星
@@ -2357,8 +2359,8 @@ dovelet            幼鸽
 hooklet            小钩子
 kinglet            小国王，小王
 chainlet            小链子
--like[形容词后缀]
-表示如...的、有...性质的
+",suffix
+-like[形容词后缀],"表示如...的、有...性质的
 dreamlike         如梦的
 steellike          钢铁般的
 childlike          孩子般天真的
@@ -2371,8 +2373,8 @@ fatherlike         父亲般的
 motherlike         母亲般的
 stralike           象星一样的
 springlike         如春的
--ling①[名词后缀]
-1、表示小
+",suffix
+-ling①[名词后缀],"1、表示小
 birdling           小鸟，幼鸟
 catling            小猫
 pigling            小猪
@@ -2402,8 +2404,8 @@ youngling         年轻人，幼小，动物，幼苗
 表示状态
 darkling           在黑暗中（的）
 sideling           斜向一边（的）
--logical[形容词后缀]亦作-logic
-表示“...学的”、由-log(y)+-ic+-al而成
+",suffix
+-logical[形容词后缀]亦作-logic,"表示“...学的”、由-log(y)+-ic+-al而成
 biological          生物学（上）的
 oceanological      海洋学的
 geological         地质学的
@@ -2412,8 +2414,8 @@ zoological         动物学的
 phiological        语言学的
 technological       细菌学的
 bacteriological     细菌学的
--logist[名词后缀]偶作-loger
-表示“...学家”、“...研究专家”，由-log(y)+-ist而成
+",suffix
+-logist[名词后缀]偶作-loger,"表示“...学家”、“...研究专家”，由-log(y)+-ist而成
 biologist           生物学家
 oceanologist       海洋学家
 volcanologist       火山学家
@@ -2427,8 +2429,8 @@ Pekingologist      北京通
 musicologist       音乐研究专家
 geologist          地质学家
 technologist       工艺学家
--logy[名词后缀]亦作-ology
-表示“...学”、“...研究”、“...论”、“...法”，与-logical，-logist相对应
+",suffix
+-logy[名词后缀]亦作-ology,"表示“...学”、“...研究”、“...论”、“...法”，与-logical，-logist相对应
 biology           生物学
 zoology          动物学
 oceanology       海洋学
@@ -2441,8 +2443,8 @@ methodology      方法论
 escapology       逃避法
 volcanology      火山学
 vitaminology      维生素学
--ly①[形容词后缀]
-1、加在名词之后，表示如...的、有...特征的、属于...的
+",suffix
+-ly①[形容词后缀],"1、加在名词之后，表示如...的、有...特征的、属于...的
 friendly          友好的
 homely          家常的，亲切的
 fatherly          父亲般的
@@ -2494,8 +2496,8 @@ gloriously        光荣地
 similarly         相似地
 usefully         有用地
 recently         最近
--ment[名词后缀]
-1、表示行为、行为的过程或结果
+",suffix
+-ment[名词后缀],"1、表示行为、行为的过程或结果
 movement       运动，移动
 management     管理，安排
 development    发达，发展
@@ -2532,8 +2534,8 @@ parliament        国会，议会
 establishment     建立的机构，行政机关
 department       部、局、司、部门
 regiment         团
--most[形容词后缀]
-表示最...的
+",suffix
+-most[形容词后缀],"表示最...的
 easternmost       最东的
 westernmost       最西的
 topmost          最高的
@@ -2548,8 +2550,8 @@ outmost          最外面的
 foremost         最前面的
 hindmost         最后面的
 farmost          最远的
--ness[名词后缀]
-加在形容词之后，构成抽象名词，表示性质、情况、状态
+",suffix
+-ness[名词后缀],"加在形容词之后，构成抽象名词，表示性质、情况、状态
 greatness        伟大
 friendliness       友好，友善
 kindness         仁慈，好意
@@ -2566,8 +2568,8 @@ bitterness        苦，苦难
 holiness          神圣
 idleness          懒惰
 blindness         盲目
--nik[名词后缀]
-表示...的人、...迷
+",suffix
+-nik[名词后缀],"表示...的人、...迷
 protestinik        抗议者
 citynik            城市人，迷恋城市者
 peacenik         反战运动者
@@ -2580,8 +2582,8 @@ computernik       电脑人员
 goodwillnik        捧场人
 folknik           民歌爱好者
 jazznik           爵士乐迷
--o[名词后缀]大多数来自意大利语
-1、表示音乐术语及乐器名称
+",suffix
+-o[名词后缀]大多数来自意大利语,"1、表示音乐术语及乐器名称
 solo             独唱，独奏（曲）
 soprano         女高音
 basso           低音部，男低音
@@ -2627,8 +2629,8 @@ fresco          壁画（法）
 junto            秘密政治集团
 gusto           嗜好，爱好
 credo          （宗教）信条
--on[名词后缀]
-1、表示人
+",suffix
+-on[名词后缀],"1、表示人
 southron         南方人
 Briton           英国人
 patron           保护人
@@ -2649,8 +2651,8 @@ neutron          中子
 magneton        磁子
 meson           介子
 hyperon          超子
--oon[名词后缀]
-1、表示物
+",suffix
+-oon[名词后缀],"1、表示物
 spittoon         痰盂
 balloon          气球
 saloon           大厅
@@ -2665,8 +2667,8 @@ quadroon      （有四分之一黑人血统的）混血儿
 maroon         被放逐到孤岛的人
 poltroon        胆小鬼，懦夫
 picaroon        流浪汉，盗贼
--or[名词后缀]
-1、表示人
+",suffix
+-or[名词后缀],"1、表示人
 actor           行动者，男演员
 translator       翻译者，译员
 oppressor      压迫者
@@ -2694,16 +2696,16 @@ separator        分离器
 resistor          电阻器
 rotator           旋转器
 flexor            曲肌
--orium[名词后缀]
-表示场所，地点
+",suffix
+-orium[名词后缀],"表示场所，地点
 auditorium       礼堂，讲堂
 beautorium      美容院
 healthatorium    疗养院
 sanatorium       疗养院
 crematorium      火葬场
 natatorium      （室内）游泳池
--ory①[形容词后缀]
-表示有...性质的、属于...的、与...有关的
+",suffix
+-ory①[形容词后缀],"表示有...性质的、属于...的、与...有关的
 advisory          忠告的，顾问的
 contradictory      矛盾的
 appreciatory       有欣赏力的
@@ -2734,8 +2736,8 @@ directory         姓名地址录
 incensory        香炉
 inventory         财产目录
 territory          领土，领地
--ose[形容词后缀]
-表示“...的”
+",suffix
+-ose[形容词后缀],"表示“...的”
 golbose         球形的
 operose         费力的，用功的
 verbose         冗长的
@@ -2744,8 +2746,8 @@ jocose          开玩笑的
 flexouse         弯弯曲曲的
 nervosa        （植物）多脉的
 fibrillose         有原纤维的
--osity[名词后缀]
-构成抽象名词，表示性质、状态、情况，与形容词后缀-ous与-ose相对应
+",suffix
+-osity[名词后缀],"构成抽象名词，表示性质、状态、情况，与形容词后缀-ous与-ose相对应
 curiosity         好奇心
 globosity        球形，球状
 grandiosity       宏大，雄伟
@@ -2754,8 +2756,8 @@ generosity       慷慨，大方
 jocosity          滑稽
 verbosity        冗长
 flexuosity        弯曲状态
--ot[名词后缀]
-1、表示人
+",suffix
+-ot[名词后缀],"1、表示人
 patriot           爱国者
 zealot           热心者
 pilot             领航员，飞行员
@@ -2769,8 +2771,8 @@ chariot          战车
 ballot           选票
 carrot          胡萝卜
 galliot          平底小船
--ous[形容词后缀]
-表示有...性质的、属于...的、如...的、有...的、多...的
+",suffix
+-ous[形容词后缀],"表示有...性质的、属于...的、如...的、有...的、多...的
 dangerous       危险的
 courageous      勇敢的
 mountainous     多山的，如山的
@@ -2787,8 +2789,8 @@ famous          著名的
 vigorous         精力充沛的
 pompous         壮丽的
 disastrous        灾难性的
--proof[形容词后缀]
-表示防...的，不透...的
+",suffix
+-proof[形容词后缀],"表示防...的，不透...的
 fireproof          防火的
 waterproof        防水的
 rainproof          防雨的
@@ -2799,8 +2801,8 @@ lightproof         不透光的
 soundproof      隔音的
 bombproof       防炸弹的
 gasproof         防毒气的
--ress[名词后缀]
-表示女性，与-ess同
+",suffix
+-ress[名词后缀],"表示女性，与-ess同
 actress          女演员
 waitress         女服务员
 interpretress     女译员
@@ -2813,8 +2815,8 @@ editress         女编辑
 protectress       女保护者
 foundress        女创立人
 aviatress         女飞行员
--rix[名词后缀]
-表示女性（亦作-trix）
+",suffix
+-rix[名词后缀],"表示女性（亦作-trix）
 aviatrix          女飞行员
 executrix        女执行者
 adminstratrix     女管理员
@@ -2823,8 +2825,8 @@ agitatrix         女鼓动者
 arbitratrix        女调解员
 testratrix         女遗嘱人
 prosecutrix       女原告，女起诉人、
--ry[名词后缀]
-1、表示行为、状态、情况、性质
+",suffix
+-ry[名词后缀],"1、表示行为、状态、情况、性质
 banditry         盗匪活动
 rivalry           敌对，竞争
 outlawry        逍遥法外
@@ -2864,8 +2866,8 @@ almonry          施赈所
 laundry          洗衣房
 pantry           食品室
 vestry           教堂的法衣室
--s[副词后缀]
-表示时间、地点、方式、状态
+",suffix
+-s[副词后缀],"表示时间、地点、方式、状态
 afternoons       每天下午
 nights           每夜，在夜间
 weekends       在每个周末
@@ -2878,8 +2880,8 @@ indoors         在屋内
 upstairs         在楼上，往楼上
 downstairs      在楼下，往楼下
 weekdays       在每个周日
--ship[名词后缀]
-1、表示情况、状态、性质、关系
+",suffix
+-ship[名词后缀],"1、表示情况、状态、性质、关系
 friendship       友谊，友好
 hardship        困难，受苦
 scholarship      学问，学识
@@ -2913,8 +2915,8 @@ huntsmanship      打猎术
 workmansip       手艺，工艺
 horsemanship     骑马术
 watermanship     划船技术
--sion[名词后缀]
-表示行为、行为的过程或结果、情况、性质，与-ion同，它所构成的名词大多由以-d，-de ,-i为结尾的动词派生而来（如：expand→expansion，decide→decision，covert→conversion）
+",suffix
+-sion[名词后缀],"表示行为、行为的过程或结果、情况、性质，与-ion同，它所构成的名词大多由以-d，-de ,-i为结尾的动词派生而来（如：expand→expansion，decide→decision，covert→conversion）
 expansion        扩张，扩展
 conclusion        结论，结束
 decision         决定
@@ -2925,8 +2927,8 @@ suspension       悬挂，停止
 extension        伸展，延伸
 division          分开，分割
 conversion       转变，变换
--some[形容词后缀]
-表示充满...的，易于...的，产生...的，有...倾向的。具有...的，令...的
+",suffix
+-some[形容词后缀],"表示充满...的，易于...的，产生...的，有...倾向的。具有...的，令...的
 gladsome         令人高兴的
 playsome         爱玩耍的
 laboursome       费力的
@@ -2943,8 +2945,8 @@ lonesome         孤独的
 bothersome       麻烦的
 gamesome        爱玩耍的
 tiresome          令人厌倦的
--ster[名词后缀]
-表示人
+",suffix
+-ster[名词后缀],"表示人
 songster          歌手，歌唱家
 youngster         年轻人，小孩
 oldster            老人
@@ -2965,8 +2967,8 @@ trickster         骗子
 gangster        匪徒，歹徒
 mobster         暴徒，匪徒
 rhymester       作打油诗的人，劣等诗人
--th[名词后缀]
-构成抽象名词，表示行为、性质、状态、情况
+",suffix
+-th[名词后缀],"构成抽象名词，表示行为、性质、状态、情况
 warmth          温暖，热情
 coolth           凉爽，凉
 growth          成长，发育
@@ -2982,8 +2984,8 @@ fourth           第四，四分之一
 fifth             第五，五分之一
 sixth            第六，六分之一
 seventh         第七，七分之一
--tic[形容词后缀]
-表示属于...的、有...性质的、与...有关的，与-ic同
+",suffix
+-tic[形容词后缀],"表示属于...的、有...性质的、与...有关的，与-ic同
 Asiatic           亚洲的，属于亚洲的
 dramatic         戏剧（性）的
 romantic         浪漫的，传奇的
@@ -2992,8 +2994,8 @@ cinematic         电影的
 schematic        纲要的
 asthmatic        患哮喘病的
 operatic          歌剧的
--tion[名词后缀]
-构成抽象名词，表示行为、行为的过程或结果、状态、情况，与-ion同
+",suffix
+-tion[名词后缀],"构成抽象名词，表示行为、行为的过程或结果、状态、情况，与-ion同
 intervention       干涉，干预
 attention         注意
 convention        集会，会议
@@ -3002,8 +3004,8 @@ production        生产
 description        描写，描述
 contention         竞争，斗争
 reduction         减少，缩减
--ture[名词后缀]亦作-ature和-iture
-表示行为、行为的结果以及与行为有关之物
+",suffix
+-ture[名词后缀]亦作-ature和-iture,"表示行为、行为的结果以及与行为有关之物
 mixture           混合，混合物
 fixture            固定，固定物
 coverture         覆盖，覆盖物
@@ -3014,8 +3016,8 @@ curvature         弯曲（部份）
 armature          盔甲
 divestiture         脱衣，剥夺
 garniture          装饰品
--ty[名词后缀]
-构成抽象名词，表示性质、情况、状态、权限
+",suffix
+-ty[名词后缀],"构成抽象名词，表示性质、情况、状态、权限
 specialty           特性，专长
 safety             安全
 entirety            整体，全部
@@ -3033,8 +3035,8 @@ sixty               六十
 seventy            七十
 eighty              八十
 ninety              九十
--ual[形容词后缀]
-表示“...的”，与-al同
+",suffix
+-ual[形容词后缀],"表示“...的”，与-al同
 textual             原文的，本文的
 actual             实际的，现实的
 sexual            性的，有性别的
@@ -3048,16 +3050,16 @@ contractual       契约的
 perceptual        感性的
 intellectual        智力的
 conceptual        概念的
--ular[形容词后缀]
-表示似...形状的、有...性质的、属于...的
+",suffix
+-ular[形容词后缀],"表示似...形状的、有...性质的、属于...的
 globular          球状的
 spherular        小球状的
 zonular          小带（状）的
 cellular           细胞的
 nodular          小节的，节状的
 jocular           滑稽的（joc=joke）
--ule[名词后缀]
-表示小
+",suffix
+-ule[名词后缀],"表示小
 spherule          小球（体）
 globule           小球
 barbule           小倒刺
@@ -3068,16 +3070,16 @@ cellule             小细胞
 nodule            小节，小瘤
 pilule              小药丸（pil=pill）
 gemmule          微芽
--ulous[形容词后缀]
-表示易于...的、多...的、如...形状的、有...性质的、属于...的，同-ous
+",suffix
+-ulous[形容词后缀],"表示易于...的、多...的、如...形状的、有...性质的、属于...的，同-ous
 tubulous            管状的
 acidulous           略酸的
 pendulous          悬垂的
 globulous           球状的
 credulous          轻信的
 bibulous           爱喝酒的
--um[名词后缀]
-表示场所、实物及抽象名词
+",suffix
+-um[名词后缀],"表示场所、实物及抽象名词
 museum           博物馆
 mausoleum        陵墓
 asylum            避难所，收容所
@@ -3090,8 +3092,8 @@ rectum            直肠
 hypogeum         地下室，窖
 contagium         接触传染物
 vacuum            真空（状态），真实度
--uous[形容词后缀]
-表示有...性质的，属于...的、有...的，同-ous
+",suffix
+-uous[形容词后缀],"表示有...性质的，属于...的、有...的，同-ous
 sensuous         感觉上的
 assiduous         刻苦的
 innocuous         无害的
@@ -3100,8 +3102,8 @@ ambiguous        两可的
 contemptuous      轻视的
 flexuous           弯弯曲曲的
 promiscuous       杂乱的，混杂的
--ure[名词后缀]
-构成抽象名词，表示行为、行为的结果、状态、情况
+",suffix
+-ure[名词后缀],"构成抽象名词，表示行为、行为的结果、状态、情况
 departure         离开，出发
 pressure          压力，压
 failure            失败
@@ -3116,8 +3118,8 @@ creature          创造物，生物
 procedure        程序，步骤
 flexure          弯曲
 pleasure         愉快
--ward[形容词及副词后缀]
-表示“向...的”、“向...”、“朝...”
+",suffix
+-ward[形容词及副词后缀],"表示“向...的”、“向...”、“朝...”
 downward        向下的，朝下
 upward           向上的，朝上
 northward        向北的，朝北
@@ -3128,8 +3130,8 @@ outward          向外的，向外
 inward            向内的，向内
 seaward          向海的，朝海
 homeward        向家的，向家
--wards[副词后缀]
-表示“向...”、“朝...”
+",suffix
+-wards[副词后缀],"表示“向...”、“朝...”
 downwards        向下，朝下
 upwards           向下，朝上
 northwards       向北，朝上
@@ -3138,16 +3140,16 @@ sunwards         向太阳
 backwards        向后
 outwards         向外
 inwards          向内
--ways[副词后缀]有的兼作形容词后缀
-表示方向、方式、状态，常与-wise通用
+",suffix
+-ways[副词后缀]有的兼作形容词后缀,"表示方向、方式、状态，常与-wise通用
 crossways        交叉地（的）
 cornerways       对角地，斜
 endways         末端朝前地
 lengthways       纵长地
 cosstways        沿海岸
 sideways         斜向一边地（的）
--wise[副词后缀]有的兼作形容词后缀
-1、常与-ways通用，表示方向、方式、状态
+",suffix
+-wise[副词后缀]有的兼作形容词后缀,"1、常与-ways通用，表示方向、方式、状态
 crosswise         交叉地（的）
 cornerwise        对角地，斜
 endwise          末端朝前地
@@ -3165,8 +3167,8 @@ otherwise         要不然，否则
 crabwise         似蟹横行地
 pairwise          成双成对地
 stepwise         逐步的
--y①[形容词后缀]
-表示多...的、有...的、如...的、属于...的（大多数加在单音节名词之后）
+",suffix
+-y①[形容词后缀],"表示多...的、有...的、如...的、属于...的（大多数加在单音节名词之后）
 rainy           下雨的
 windy          有风的
 sunny          阳光充足的
@@ -3229,8 +3231,9 @@ daddy            爸爸，爹爹
 granny（=grannie）奶奶
 aunty（=auntie）  阿姨
 maidy            小女孩
--yer[名词后缀]
-表示人
+",suffix
+-yer[名词后缀],"表示人
 lawyer           律师，法律家
 sawyer          锯木人，锯工
 bowyer          制弓的人，弓手，射者
+",suffix
