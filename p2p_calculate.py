@@ -1,3 +1,5 @@
+import pandas as pd #需要用里面的data frame
+from pandas import DataFrame
 
 def realAnnualizedReturn(nominalPricipal, couponRate, month, nominalAnnualizedReturn):
     '''
@@ -43,3 +45,7 @@ realAnnualizedReturn(5000, 0.01, 3, 0.085)
 
 realAnnualizedReturn(15000, 0.0112, 6, 0.1)
 realAnnualizedReturn(10000, 0.0112, 6, 0.1)
+
+couponRateList = [0.01, 0.005]
+monthList = [3,6,9,12,24]
+nominalAnnualizedReturnList = [0.008,0.0085,0.0115,0.012,0.0125,0.013]
