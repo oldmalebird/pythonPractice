@@ -8,7 +8,7 @@ import xlrd
 import xlwt
 from xlutils.copy import copy
 
-workbook = xlrd.open_workbook(r"D:\p\p001\批发价格8.16-8.24.xls")
+workbook = xlrd.open_workbook(r"D:\p\p001\1.1-1.10.xls")
 print(workbook.sheet_names())
 
 sheet1 = workbook.sheet_by_index(0)
@@ -65,4 +65,4 @@ for i in range(13, nrows):
     i += 1
 
 #保存
-book.save(r"D:\p\p001\201708_3.xls")
+book.save(r"D:\p\p001\201701_1.xls")
