@@ -14,6 +14,12 @@ with open(r"D:\Data\小程序\北方蔬菜报\filelist.txt") as dirfile:
         if line.endswith('.txt'):
             print(line)
             dirList.append(line)
-            #title = line.find('(D:\Data\小程序\北方蔬菜报\\).txt')
+            title = line.split('\\')
+            print('1', title)
+            print('2', line)
+            title = title[-1]
+            print(title)
+            titleList.append(title)
 
 print(dirList)
+print(titleList)
