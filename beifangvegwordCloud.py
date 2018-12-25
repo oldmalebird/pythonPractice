@@ -16,7 +16,7 @@ print(type(string_data))
 
 # 文本预处理
 pattern = re.compile(
-    u'\t|\n|\.|-|:|;|\)|\(|\?|"|【|】|“|”|？|！|）|（|1|2|3|4|5|6|7|8|9|0'
+    u'\t|\n|\.|-|:|;|\)|\(|\?|"|【|】|“|”|？|！|）|（|1|2|3|4|5|6|7|8|9|0|：'
 )  # 定义正则表达式匹配模式，感觉可以加上:|【|】，或者在remove_word里加
 string_data = re.sub(pattern, '', string_data)  # 将符合模式的字符去除
 
@@ -27,7 +27,7 @@ remove_words = [
     u'的', u'，', u'和', u'是', u'随着', u'对于', u'对', u'等', u'能', u'都', u'。', u' ',
     u'、', u'中', u'在', u'了', u'通常', u'如果', u'我们', u'需要', u'新闻', u'热线', u'连载',
     u'其他', u'专版', u'新建文本文档', u'又', u'我', u'更', u'与', u'要', u'不', u'记者', u'被',
-    u'及'
+    u'及', u'有', u'很'
 ]  # 自定义去除词库
 
 for word in seg_list_exact:  # 循环读出每个分词
@@ -36,8 +36,10 @@ for word in seg_list_exact:  # 循环读出每个分词
 
 # 词频统计
 word_counts = collections.Counter(object_list)  # 对分词做词频统计
-word_counts_top20 = word_counts.most_common(20)  # 获取前10最高频的词
-print(word_counts_top20)  # 输出检查
+word_counts_top50 = word_counts.most_common(50)  # 获取前10最高频的词
+print(word_counts_top50)  # 输出检查
+for i in range(50):
+    print(word_counts_top50[i][0], ":", word_counts_top50[i][1])
 
 # 词频展示
 mask = np.array(Image.open(r"D:\Data\小程序\北方蔬菜报\白菜透明2.png"))  # 定义词频背景
