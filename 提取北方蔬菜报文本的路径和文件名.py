@@ -2,8 +2,13 @@
 
 import re
 
+#建立北方蔬菜报文件地址空列表
 dirList = []
+#建立北方蔬菜报文件名空列表
+titleFileList = []
+#建立北方蔬菜报标题空列表
 titleList = []
+
 with open(r"D:\Data\小程序\北方蔬菜报\filelist.txt") as dirfile:
     for line in dirfile:
         #print(line)
@@ -12,14 +17,18 @@ with open(r"D:\Data\小程序\北方蔬菜报\filelist.txt") as dirfile:
         #print(type(line))
         dirList.append(line)
         if line.endswith('.txt'):
-            print(line)
+            # print(line)
             dirList.append(line)
             title = line.split('\\')
-            print('1', title)
-            print('2', line)
+            # print('1', title)
+            # print('2', line)
             title = title[-1]
-            print(title)
+            # print(title)
+            titleFileList.append(title)
+            title = title[:-4]
             titleList.append(title)
+            print(title)
 
-print(dirList)
-print(titleList)
+#print(dirList)
+# for i in range(len(titleList)):
+#     print(i, ":", titleList[i])
