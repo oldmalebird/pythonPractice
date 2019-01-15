@@ -2,6 +2,7 @@
 #读取filelist.txt，如果该行结尾为.txt，则把该路径存储到dirList里面，把文件名存储到titleList里面
 import os
 import re
+import chardet
 #建立北方蔬菜报文件地址空列表
 dirList = []
 #建立北方蔬菜报txt文件地址空列表
@@ -55,9 +56,13 @@ for line in open(r"D:\Data\小程序\北方蔬菜报\txt文件地址.txt"):
     # 增加rb后无UnicodeDecodeError: 'gbk' codec can't decode byte 0xa4 in position 16
     address = line.strip()
     print(address)
-    f = open(address.strip())
+    f = open(address.strip(), 'rb')
     #变成str才可以用encode，然后还要把byte还原为str，才可以与\n相连
-    all.write(str(str(f.read()).encode('utf-8')) + '\n')
+    # all.write(str(str(f.read()).encode('utf-8')) + '\n')
+    print(address)
+    print(chardet.detect(f.read()))
+    # all.write(str(str(f.read().decode(chardet.detect(str(f.read()))['encoding']))
+    #         .encode('utf-8')) + '\n')
     #all.write(f.read())
     #f.read()
     print('finish read')
