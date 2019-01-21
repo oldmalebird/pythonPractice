@@ -20,7 +20,14 @@ string_data = re.sub(pattern, '', string_data)  # 将符合模式的字符去除
 # 文本分词
 seg_list_exact = jieba.cut(string_data, cut_all=False)  # 精确模式分词
 object_list = []
-stopwords = stopwordslist('./test/stopwords.txt')
+# stopwords = stopwordslist(r"D:\Github\pythonPractice\stopwords_raw.txt")
+
+lines = open(
+    r"D:\Github\pythonPractice\stopwords_raw.txt", 'r', encoding='utf-8')
+stopwords = []
+for line in lines.readlines():
+    stopwords.append(line)
+
 # remove_words = [
 #     u'的', u'，', u'和', u'是', u'随着', u'对于', u'对', u'等', u'能', u'都', u'。', u' ',
 #     u'、', u'中', u'在', u'了', u'通常', u'如果', u'我们', u'需要', u'也', u'有','
