@@ -140,7 +140,7 @@ if __name__ == '__main__':
                 # 保存结果
                 with open(file_path, 'a+', encoding='utf-8') as file:
                     file.write(word[2] + '\n')
-            os.remove(os.path.join(in_path, f))
+            # os.remove(os.path.join(in_path, f))
         except Exception as e:
             print(e)
             pass
