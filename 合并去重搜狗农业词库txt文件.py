@@ -18,6 +18,7 @@ veg_words = set(veg_words)
 print('去重后的农业用词有：', len(veg_words))  #3.7w
 
 # 写入veg_dict.txt自定义词库
-veg_dict = open(r"D:\Data\小程序\北方蔬菜报\veg_dict.txt", 'w')
+veg_dict = open(r"D:\Data\小程序\北方蔬菜报\veg_dict.txt",
+                'w')  # 这个需要保存成utf-8才可以被jieba读取
 veg_dict.write('\n'.join(veg_words))
 veg_dict.close()

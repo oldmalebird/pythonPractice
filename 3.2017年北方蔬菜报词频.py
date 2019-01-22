@@ -16,6 +16,9 @@ pattern = re.compile(
     u'\t|\n|\.|-|:|;|\)|\(|\?|"|：|“|”|）|；|？|（|　|，|。|、')  # 定义正则表达式匹配模式
 string_data = re.sub(pattern, '', string_data)  # 将符合模式的字符去除
 
+#加载用户自定义词典
+jieba.load_userdict(r"D:\Data\小程序\北方蔬菜报\veg_dict.txt")
+
 # 文本分词
 seg_list_exact = jieba.cut(string_data, cut_all=False)  # 精确模式分词
 object_list = []
