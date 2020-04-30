@@ -11,6 +11,6 @@ df = db['xfd_veg_price']
 #xfd_veg_price.find({"date":{$gte:"2019-01-01"}})
 data = pd.DataFrame(list(df.find()))
 
-writer = r"D:\Desktop\test.csv"
+writer = r"C:\Users\MaleBird\Desktop\新发地蔬菜价格.csv"
 data.to_csv(writer, index=False)
 #打开时需要从excel获取外部数据导入，编码选择utf-8
