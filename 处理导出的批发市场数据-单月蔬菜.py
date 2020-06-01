@@ -1,6 +1,6 @@
 import pandas as pd
-docAddress = r"D:\Data\信息中心批发价格\网络导出\2020年4月蔬菜汇总数据.xlsx"
-df = pd.read_excel(docAddress, sheet_name='Sheet1')
+docAddress = r"D:\Data\信息中心批发价格\网络导出\2020年5月蔬菜汇总数据.xlsx"
+df = pd.read_excel(docAddress)
 df.shape
 df.head()
 df.info()
@@ -28,5 +28,5 @@ df = df[~(df['批发市场'].str.len() < 4)]
 
 df.info()
 
-writer = r"D:\Data\信息中心批发价格\网络导出\2020年4月蔬菜汇总数据_cleaned.xlsx"
+writer = r"D:\Data\信息中心批发价格\网络导出\2020年5月蔬菜汇总数据_cleaned.xlsx"
 df.to_excel(writer, sheet_name='cleaned', index=False)
